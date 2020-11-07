@@ -6019,3 +6019,16 @@
 [06:24:05] [Server thread/INFO]: MattGoesHAM issued server command: //walls glass
 [06:37:02] [Server thread/INFO]: MattGoesHAM issued server command: //copy
 [06:37:05] [Server thread/INFO]: MattGoesHAM issued server command: //paste
+[06:53:51] [Server thread/INFO]: SamHarrisonZ issued server command: //copy
+[06:54:17] [Server thread/INFO]: SamHarrisonZ issued server command: //copy
+[06:54:46] [Server thread/INFO]: SamHarrisonZ issued server command: //paste
+[06:55:12] [Server thread/INFO]: SamHarrisonZ issued server command: //paste
+[06:59:55] [Server thread/INFO]: SamHarrisonZ has made the advancement [Enchanter]
+[07:00:39] [Server thread/INFO]: MattGoesHAM lost connection: Timed out
+[07:00:39] [Server thread/INFO]: MattGoesHAM left the game
+[07:07:29] [Server thread/INFO]: SamHarrisonZ issued server command: //set 0
+[07:08:55] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:grass_block
+[07:15:53] [Server thread/INFO]: SamHarrisonZ issued server command: //set 0
+[07:17:24] [Server thread/INFO]: SamHarrisonZ issued server command: //set 0
+[07:25:38] [Server thread/INFO]: SamHarrisonZ lost connection: Disconnected
+[07:25:38] [Server thread/INFO]: SamHarrisonZ left the game
