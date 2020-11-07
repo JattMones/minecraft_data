@@ -6032,3 +6032,38 @@
 [07:17:24] [Server thread/INFO]: SamHarrisonZ issued server command: //set 0
 [07:25:38] [Server thread/INFO]: SamHarrisonZ lost connection: Disconnected
 [07:25:38] [Server thread/INFO]: SamHarrisonZ left the game
+[07:28:03] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[07:28:03] [Server thread/INFO]: [Rcon: Stopping the server]
+[07:28:03] [RCON Client /127.0.0.1 #2/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[07:28:03] [Server thread/INFO]: Stopping server
+[07:28:03] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.18.0.0
+[07:28:03] [Server thread/INFO]: [Essentials] Disabling Essentials v2.18.1.0
+[07:28:03] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[07:28:03] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.3;5407315
+[07:28:03] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[07:28:03] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[07:28:03] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[07:28:03] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.1.0;8e55131
+[07:28:03] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[07:28:03] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.1.93
+[07:28:03] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[07:28:03] [Server thread/INFO]: [LuckPerms] Closing storage...
+[07:28:03] [Server thread/INFO]: [LuckPerms] Goodbye!
+[07:28:03] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.1.6
+[07:28:03] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[07:28:03] [Server thread/INFO]: Saving players
+[07:28:03] [Server thread/INFO]: SkimShady lost connection: Server closed
+[07:28:03] [Server thread/INFO]: SkimShady left the game
+[07:28:03] [Server thread/INFO]: Saving worlds
+[07:28:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07:28:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:28:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[07:28:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:28:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[07:28:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:28:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:28:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:28:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:28:04] [Server thread/INFO]: Flushing Chunk IO
+[07:28:04] [Server thread/INFO]: Closing Thread Pool
+[07:28:04] [Server thread/INFO]: Closing Server
