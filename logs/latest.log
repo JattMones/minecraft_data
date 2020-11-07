@@ -5958,3 +5958,64 @@
 [05:49:24] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:sea_lantern
 [05:49:32] [Server thread/INFO]: MattGoesHAM issued server command: /tp SamHarrisonZ
 [05:49:32] [Server thread/WARN]: MattGoesHAM moved too quickly! -34.4412146043079,17.37072955698384,-18.09787940244768
+[05:51:27] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:polished_dior
+[05:51:36] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:polished_diorite
+[05:52:49] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:polished_diorite
+[05:53:24] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:polished_diorite
+[05:55:43] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:polished_diorite
+[05:56:14] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:sea_lantern
+[05:56:25] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:polished_diorite
+[05:56:56] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:polished_diorite
+[05:59:32] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:polished_diorite
+[06:02:42] [Server thread/INFO]: SamHarrisonZ issued server command: /teleport MattGoesHAM
+[06:06:31] [Server thread/INFO]: SamHarrisonZ issued server command: /teleport MattGoesHAM
+[06:06:38] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:polished_diorite
+[06:06:56] [Server thread/INFO]: MattGoesHAM issued server command: //copy
+[06:07:10] [Server thread/INFO]: MattGoesHAM issued server command: //paste
+[06:07:40] [Server thread/INFO]: MattGoesHAM issued server command: //replace minecraft:quartz_pillar minecraft:chiseled_polished_blackstone
+[06:07:48] [Server thread/INFO]: MattGoesHAM issued server command: //undo
+[06:08:06] [Server thread/INFO]: MattGoesHAM issued server command: //replace minecraft:quartz_pillar minecraft:chiseled_polished_blackstone
+[06:08:50] [Server thread/INFO]: MattGoesHAM issued server command: //set minecraft:chiseled_polished_blackstone
+[06:08:59] [Server thread/INFO]: MattGoesHAM issued server command: //set minecraft:chiseled_polished_blackstone
+[06:09:13] [Server thread/INFO]: MattGoesHAM issued server command: //set minecraft:chiseled_polished_blackstone
+[06:09:23] [Server thread/INFO]: MattGoesHAM issued server command: //set minecraft:chiseled_polished_blackstone
+[06:09:28] [Server thread/INFO]: MattGoesHAM issued server command: //set minecraft:chiseled_polished_blackstone
+[06:09:32] [Server thread/INFO]: MattGoesHAM issued server command: //set minecraft:chiseled_polished_blackstone
+[06:09:38] [Server thread/INFO]: MattGoesHAM issued server command: //set minecraft:chiseled_polished_blackstone
+[06:09:42] [Server thread/INFO]: MattGoesHAM issued server command: //set minecraft:chiseled_polished_blackstone
+[06:09:45] [Server thread/INFO]: MattGoesHAM issued server command: //set minecraft:chiseled_polished_blackstone
+[06:09:49] [Server thread/INFO]: MattGoesHAM issued server command: //set minecraft:chiseled_polished_blackstone
+[06:10:08] [Server thread/INFO]: MattGoesHAM issued server command: //set minecraft:chiseled_polished_blackstone
+[06:10:16] [Server thread/INFO]: MattGoesHAM issued server command: //set minecraft:chiseled_polished_blackstone
+[06:10:24] [Server thread/INFO]: MattGoesHAM issued server command: //undo
+[06:10:28] [Server thread/INFO]: MattGoesHAM issued server command: //set minecraft:chiseled_polished_blackstone
+[06:10:34] [Server thread/INFO]: MattGoesHAM issued server command: //set minecraft:chiseled_polished_blackstone
+[06:10:41] [Server thread/INFO]: MattGoesHAM issued server command: //set minecraft:chiseled_polished_blackstone
+[06:11:13] [Server thread/INFO]: MattGoesHAM issued server command: //copy
+[06:11:20] [Server thread/INFO]: MattGoesHAM issued server command: //copy
+[06:11:23] [Server thread/INFO]: MattGoesHAM issued server command: //paste
+[06:11:25] [Server thread/INFO]: MattGoesHAM issued server command: //paste
+[06:11:32] [Server thread/INFO]: MattGoesHAM issued server command: //paste
+[06:11:35] [Server thread/INFO]: MattGoesHAM issued server command: //paste
+[06:11:38] [Server thread/INFO]: MattGoesHAM issued server command: //paste
+[06:11:52] [Server thread/INFO]: MattGoesHAM issued server command: //copy
+[06:12:02] [Server thread/INFO]: MattGoesHAM issued server command: //paste
+[06:12:04] [Server thread/INFO]: MattGoesHAM issued server command: //paste
+[06:12:20] [Server thread/INFO]: MattGoesHAM issued server command: //copy
+[06:12:24] [Server thread/INFO]: MattGoesHAM issued server command: //paste
+[06:12:28] [Server thread/INFO]: MattGoesHAM issued server command: //paste
+[06:12:31] [Server thread/INFO]: MattGoesHAM issued server command: //undo
+[06:13:49] [Server thread/INFO]: MattGoesHAM issued server command: //set minecraft:ston
+[06:13:55] [Server thread/INFO]: MattGoesHAM issued server command: //set minecraft:stone_bricks
+[06:17:53] [Server thread/INFO]: MattGoesHAM issued server command: //replace 0
+[06:18:16] [Server thread/INFO]: MattGoesHAM issued server command: //replace 0
+[06:19:31] [Server thread/INFO]: MattGoesHAM issued server command: //outline glass
+[06:19:38] [Server thread/INFO]: MattGoesHAM issued server command: //undo
+[06:21:32] [Server thread/INFO]: MattGoesHAM issued server command: //walls glass
+[06:22:14] [Server thread/INFO]: MattGoesHAM issued server command: //walls glass
+[06:22:29] [Server thread/INFO]: MattGoesHAM issued server command: //walls glass
+[06:23:42] [Server thread/INFO]: MattGoesHAM issued server command: //walls glass
+[06:23:52] [Server thread/INFO]: MattGoesHAM issued server command: //walls glass
+[06:24:05] [Server thread/INFO]: MattGoesHAM issued server command: //walls glass
+[06:37:02] [Server thread/INFO]: MattGoesHAM issued server command: //copy
+[06:37:05] [Server thread/INFO]: MattGoesHAM issued server command: //paste

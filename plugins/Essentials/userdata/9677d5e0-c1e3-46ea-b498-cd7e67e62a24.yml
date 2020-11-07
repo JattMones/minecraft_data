@@ -11,7 +11,7 @@ lastlocation:
   z: 28.037984620370295
   yaw: 85.62845
   pitch: 23.85194
-afk: false
+afk: true
 logoutlocation:
   world: world
   x: 308.33144677014843
