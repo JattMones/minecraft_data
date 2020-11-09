@@ -536,3 +536,166 @@
 [03:09:30] [Server thread/WARN]: MattGoesHAM moved too quickly! 0.14597937413621764,248.0,-0.07920046603157971
 [03:09:35] [Server thread/INFO]: SamHarrisonZ issued server command: /top
 [03:10:08] [Server thread/INFO]: SamHarrisonZ issued server command: /top
+[03:20:50] [Server thread/INFO]: SamHarrisonZ issued server command: /warp wet_city
+[03:21:31] [Async Chat Thread - #1/INFO]: <[brother]SamHarrisonZ> Did your phone die?
+[03:21:42] [Async Chat Thread - #1/INFO]: <[brother]SamHarrisonZ> You fucking sadboy
+[03:23:54] [Server thread/INFO]: SamHarrisonZ issued server command: /warp observatory
+[03:24:28] [Async Chat Thread - #2/INFO]: <[admin]MattGoesHAM> ya
+[03:24:33] [Async Chat Thread - #2/INFO]: <[brother]SamHarrisonZ> Sad!
+[03:31:43] [Server thread/INFO]: SamHarrisonZ issued server command: //set 0
+[03:37:25] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
+[03:39:11] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
+[03:40:06] [Server thread/INFO]: MattGoesHAM lost connection: Disconnected
+[03:40:06] [Server thread/INFO]: MattGoesHAM left the game
+[03:40:49] [User Authenticator #4/INFO]: UUID of player MattGoesHAM is d8ad3fe0-e950-46fd-9505-1dc14f167c0d
+[03:40:49] [Server thread/INFO]: MattGoesHAM joined the game
+[03:40:49] [Server thread/INFO]: MattGoesHAM[/67.253.232.63:54103] logged in with entity id 1194 at ([world]-94.18150097462097, 144.80301216318503, -16.169837272498654)
+[03:41:04] [Server thread/INFO]: MattGoesHAM issued server command: /top
+[03:41:19] [Server thread/INFO]: MattGoesHAM issued server command: /top
+[03:41:19] [Server thread/WARN]: MattGoesHAM moved too quickly! 0.3244642145808143,173.0,-0.3713256007790946
+[03:45:16] [Server thread/INFO]: MattGoesHAM issued server command: /top
+[03:48:15] [Server thread/INFO]: MattGoesHAM issued server command: /top
+[03:48:58] [Server thread/INFO]: MattGoesHAM issued server command: /top
+[03:49:06] [Server thread/INFO]: MattGoesHAM issued server command: /top
+[03:49:09] [Server thread/INFO]: MattGoesHAM issued server command: /top
+[03:49:09] [Server thread/WARN]: MattGoesHAM moved too quickly! 0.16904651289340222,248.0,0.4854976853158508
+[03:51:35] [Server thread/INFO]: MattGoesHAM issued server command: /top
+[03:51:35] [Server thread/WARN]: MattGoesHAM moved too quickly! -0.15704472341570863,248.0,0.037956075491310415
+[03:51:35] [Server thread/WARN]: MattGoesHAM moved too quickly! -0.15704472341570863,248.0,0.037956075491310415
+[03:52:25] [Server thread/INFO]: MattGoesHAM issued server command: //copy
+[03:52:27] [Server thread/INFO]: MattGoesHAM issued server command: //paste
+[03:55:15] [Server thread/INFO]: MattGoesHAM issued server command: //copy
+[03:55:25] [Server thread/INFO]: MattGoesHAM issued server command: //paste
+[03:55:37] [Server thread/INFO]: MattGoesHAM issued server command: //undo
+[03:55:44] [Server thread/INFO]: MattGoesHAM issued server command: //rotate 90
+[03:55:46] [Server thread/INFO]: MattGoesHAM issued server command: //paste
+[03:55:50] [Server thread/INFO]: MattGoesHAM issued server command: //undo
+[03:55:56] [Server thread/INFO]: MattGoesHAM issued server command: //rotate 90
+[03:55:58] [Server thread/INFO]: MattGoesHAM issued server command: //paste
+[03:56:33] [Server thread/INFO]: MattGoesHAM issued server command: //rotate 180
+[03:56:37] [Server thread/INFO]: MattGoesHAM issued server command: //paste
+[03:57:16] [Server thread/INFO]: MattGoesHAM issued server command: //rotate 180
+[03:57:20] [Server thread/INFO]: MattGoesHAM issued server command: //paste
+[03:57:29] [Server thread/INFO]: MattGoesHAM issued server command: //rotate 180
+[03:57:30] [Server thread/INFO]: MattGoesHAM issued server command: //paste
+[03:57:59] [Server thread/INFO]: MattGoesHAM issued server command: //wand
+[03:59:29] [Server thread/INFO]: MattGoesHAM issued server command: /top
+[03:59:39] [Server thread/INFO]: MattGoesHAM issued server command: //copt
+[03:59:42] [Server thread/INFO]: MattGoesHAM issued server command: //copy
+[03:59:55] [Server thread/INFO]: MattGoesHAM issued server command: //paste
+[03:59:58] [Server thread/INFO]: MattGoesHAM issued server command: //undo
+[04:00:05] [Server thread/INFO]: MattGoesHAM issued server command: //rotate 180
+[04:00:06] [Server thread/INFO]: MattGoesHAM issued server command: //paste
+[04:00:32] [Server thread/INFO]: MattGoesHAM issued server command: //roate 180
+[04:00:39] [Server thread/INFO]: MattGoesHAM issued server command: //rotate 180
+[04:00:42] [Server thread/INFO]: MattGoesHAM issued server command: //paste
+[04:01:02] [Server thread/INFO]: MattGoesHAM issued server command: //rotate 180
+[04:01:05] [Server thread/INFO]: MattGoesHAM issued server command: //paste
+[04:01:14] [Server thread/INFO]: MattGoesHAM issued server command: //undo
+[04:01:34] [Server thread/INFO]: MattGoesHAM issued server command: //paste
+[04:01:42] [Server thread/INFO]: MattGoesHAM issued server command: //undo
+[04:06:16] [Server thread/INFO]: MattGoesHAM issued server command: //copy
+[04:06:29] [Server thread/INFO]: MattGoesHAM issued server command: //paste
+[04:06:39] [Server thread/INFO]: MattGoesHAM issued server command: //undo
+[04:07:14] [Server thread/INFO]: MattGoesHAM issued server command: //copy
+[04:07:26] [Server thread/INFO]: MattGoesHAM issued server command: //paste
+[04:07:29] [Server thread/INFO]: MattGoesHAM issued server command: //undo
+[04:07:34] [Server thread/INFO]: MattGoesHAM issued server command: //rotate 180
+[04:07:36] [Server thread/INFO]: MattGoesHAM issued server command: //paste
+[04:07:48] [Server thread/INFO]: MattGoesHAM issued server command: //undo
+[04:07:54] [Server thread/INFO]: MattGoesHAM issued server command: //
+[04:08:02] [Server thread/INFO]: MattGoesHAM issued server command: //
+[04:08:07] [Server thread/INFO]: MattGoesHAM issued server command: //
+[04:08:26] [Server thread/INFO]: MattGoesHAM issued server command: //copy
+[04:08:35] [Server thread/INFO]: MattGoesHAM issued server command: //paste
+[04:08:43] [Server thread/INFO]: MattGoesHAM issued server command: //undo
+[04:08:47] [Server thread/INFO]: MattGoesHAM issued server command: //rotate 180
+[04:08:49] [Server thread/INFO]: MattGoesHAM issued server command: //paste
+[04:08:52] [Server thread/INFO]: MattGoesHAM issued server command: //undo
+[04:09:37] [Server thread/INFO]: MattGoesHAM issued server command: /time set 0
+[04:10:36] [Server thread/INFO]: MattGoesHAM issued server command: /tp SamHarrisonZ
+[04:10:43] [User Authenticator #5/INFO]: UUID of player SkimShady is 9677d5e0-c1e3-46ea-b498-cd7e67e62a24
+[04:10:43] [Server thread/INFO]: SkimShady joined the game
+[04:10:43] [Server thread/INFO]: SkimShady[/100.6.166.24:59513] logged in with entity id 1239 at ([world]392.5968562454534, 110.10105071102065, -128.24620769361525)
+[04:10:55] [Async Chat Thread - #3/INFO]: <[admin]MattGoesHAM> yo
+[04:11:05] [Async Chat Thread - #3/INFO]: <[brother]SkimShady> left the game
+[04:11:25] [Server thread/INFO]: MattGoesHAM issued server command: /gm 0 SkimShady
+[04:11:26] [Async Chat Thread - #3/INFO]: <[brother]SamHarrisonZ> No he didn't
+[04:11:31] [Server thread/INFO]: MattGoesHAM issued server command: /burn SkimShady 20
+[04:11:37] [Server thread/INFO]: SkimShady issued server command: /gamemode creative
+[04:11:40] [Async Chat Thread - #3/INFO]: <[brother]SkimShady> nice try matt
+[04:11:43] [Server thread/INFO]: MattGoesHAM issued server command: /tp SkimShady MattGoesHAM
+[04:12:31] [Server thread/INFO]: MattGoesHAM issued server command: /editsign set 1 fuck you jake
+[04:13:33] [Server thread/INFO]: MattGoesHAM issued server command: /editsign set 3 me
+[04:13:54] [Server thread/INFO]: MattGoesHAM issued server command: /editsign set 1 bitchass jakey
+[04:14:07] [Async Chat Thread - #4/INFO]: <[admin]MattGoesHAM> i got those sign hax
+[04:14:24] [Async Chat Thread - #4/INFO]: <[brother]SkimShady> sam matts bullying me
+[04:14:40] [Async Chat Thread - #4/INFO]: <[brother]SamHarrisonZ> sux
+[04:14:50] [Server thread/INFO]: MattGoesHAM issued server command: /top
+[04:14:51] [Server thread/WARN]: MattGoesHAM moved too quickly! -0.12480289275987388,88.97252150571015,0.09144374623958207
+[04:14:51] [Server thread/WARN]: MattGoesHAM moved too quickly! -0.12480289275987388,88.97252150571015,0.09144374623958207
+[04:15:02] [Async Chat Thread - #4/INFO]: <[brother]SkimShady> jones broke a window
+[04:15:17] [Server thread/INFO]: MattGoesHAM issued server command: /gm 0 SkimShady
+[04:15:19] [Server thread/INFO]: MattGoesHAM issued server command: /tp SkimShady MattGoesHAM
+[04:15:22] [Server thread/INFO]: MattGoesHAM issued server command: /tp SkimShady MattGoesHAM
+[04:15:33] [Server thread/INFO]: MattGoesHAM issued server command: /tp SkimShady MattGoesHAM
+[04:15:42] [Server thread/INFO]: MattGoesHAM issued server command: /gm 1 SkimShady
+[04:15:45] [Server thread/INFO]: MattGoesHAM issued server command: /tp SkimShady MattGoesHAM
+[04:15:52] [Server thread/INFO]: MattGoesHAM issued server command: /tp SkimShady MattGoesHAM
+[04:15:56] [Server thread/INFO]: MattGoesHAM issued server command: /tp SkimShady MattGoesHAM
+[04:16:07] [Server thread/INFO]: MattGoesHAM issued server command: /tp SkimShady MattGoesHAM
+[04:16:08] [Server thread/INFO]: MattGoesHAM issued server command: /gm 0 SkimShady
+[04:16:09] [Server thread/INFO]: SkimShady issued server command: /survivalmode mattgoesham
+[04:16:09] [Server thread/INFO]: SkimShady fell from a high place
+[04:16:11] [Server thread/INFO]: MattGoesHAM fell from a high place
+[04:16:19] [Server thread/INFO]: SamHarrisonZ issued server command: /kill SkimShady
+[04:16:19] [Server thread/INFO]: SkimShady died
+[04:16:24] [Server thread/INFO]: MattGoesHAM issued server command: /gm 1
+[04:16:25] [Async Chat Thread - #5/INFO]: <[brother]SkimShady> lol
+[04:16:31] [Async Chat Thread - #5/INFO]: <[admin]MattGoesHAM> XD
+[04:16:35] [Async Chat Thread - #5/INFO]: <[brother]SkimShady> how the fuck did you get spotantious combustion
+[04:16:42] [Server thread/INFO]: SkimShady issued server command: /gamemode creative
+[04:16:54] [Async Chat Thread - #5/INFO]: <[admin]MattGoesHAM> it said I fell from a high place
+[04:17:02] [Server thread/INFO]: SkimShady issued server command: /fireball MattgoesHam
+[04:17:15] [Server thread/INFO]: SkimShady issued server command: /tp mattgoesham
+[04:17:29] [Server thread/INFO]: SkimShady issued server command: /fireskull dragon 4
+[04:17:46] [Server thread/INFO]: SkimShady issued server command: /fireskull dragon 4
+[04:18:00] [Server thread/INFO]: SkimShady issued server command: /firework
+[04:18:11] [Server thread/INFO]: SkimShady issued server command: /firework color:magenta
+[04:18:21] [Server thread/INFO]: SkimShady issued server command: /fireentity arrow
+[04:18:37] [Server thread/INFO]: SkimShady issued server command: /lightning Mattgoesham
+[04:18:51] [Server thread/INFO]: MattGoesHAM issued server command: /setwarp world_tower_top
+[04:18:51] [pool-37-thread-1/INFO]: [Essentials] Creating empty config: /data/plugins/Essentials/warps/world_tower_top.yml
+[04:18:59] [Server thread/INFO]: SkimShady issued server command: /gamemode survival mattgoesham
+[04:19:02] [Server thread/INFO]: MattGoesHAM fell from a high place
+[04:19:03] [Server thread/INFO]: SkimShady issued server command: /lightning matttgoesham
+[04:19:08] [Server thread/INFO]: SkimShady issued server command: /lightning mattgoesham
+[04:19:11] [Server thread/INFO]: MattGoesHAM issued server command: /gm 1
+[04:19:31] [Server thread/INFO]: SkimShady issued server command: /gamemode survival mattgoesham
+[04:19:33] [Server thread/INFO]: MattGoesHAM fell from a high place
+[04:19:38] [Server thread/INFO]: MattGoesHAM issued server command: /kick SkimShady
+[04:19:38] [Server thread/INFO]: SkimShady issued server command: /lightning mattgoesham
+[04:19:45] [Server thread/INFO]: SkimShady issued server command: /tp matt
+[04:19:56] [Server thread/INFO]: MattGoesHAM issued server command: /kick SkimShady
+[04:19:58] [Server thread/INFO]: SkimShady issued server command: /gamemode adventure mattgoesham
+[04:20:03] [Server thread/INFO]: SkimShady issued server command: /lightning mattgoesham
+[04:20:11] [Server thread/INFO]: SkimShady issued server command: /lightning matt 5
+[04:20:17] [Async Chat Thread - #6/INFO]: <[brother]SkimShady> smite
+[04:20:20] [Async Chat Thread - #6/INFO]: <[admin]MattGoesHAM> ....
+[04:20:33] [Server thread/INFO]: MattGoesHAM issued server command: /gm 1
+[04:20:55] [Server thread/INFO]: MattGoesHAM issued server command: /warp world_tower_top
+[04:20:55] [Server thread/WARN]: MattGoesHAM moved too quickly! -23.51883287543312,134.8873656164974,115.91384064926864
+[04:20:55] [Server thread/INFO]: SkimShady issued server command: /tp samharrisonz
+[04:21:14] [Server thread/INFO]: SkimShady issued server command: /lightning sam
+[04:21:18] [Server thread/INFO]: MattGoesHAM issued server command: /time set 0
+[04:21:27] [Server thread/INFO]: SkimShady issued server command: /fireball
+[04:21:30] [Server thread/INFO]: SkimShady issued server command: /undo
+[04:21:30] [Server thread/INFO]: SamHarrisonZ issued server command: /smite SkimShady
+[04:22:49] [Server thread/INFO]: MattGoesHAM issued server command: /setwarp world_tower_mid
+[04:22:49] [pool-37-thread-1/INFO]: [Essentials] Creating empty config: /data/plugins/Essentials/warps/world_tower_mid.yml
+[04:23:10] [Server thread/INFO]: MattGoesHAM issued server command: /setwarp world_tower_bot
+[04:23:10] [pool-37-thread-1/INFO]: [Essentials] Creating empty config: /data/plugins/Essentials/warps/world_tower_bot.yml
+[04:23:18] [Server thread/INFO]: MattGoesHAM issued server command: /tp spawn
+[04:23:21] [Server thread/INFO]: MattGoesHAM issued server command: /warp spawn
+[04:23:21] [Server thread/WARN]: MattGoesHAM moved too quickly! 22.931641955774722,74.0,-141.52583267908844
+[04:23:29] [Server thread/INFO]: SkimShady issued server command: /tp mattgoesham skimshady

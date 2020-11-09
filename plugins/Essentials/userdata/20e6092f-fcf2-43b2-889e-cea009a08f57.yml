@@ -1,16 +1,16 @@
 lastAccountName: SamHarrisonZ
 timestamps:
   login: 1604884917137
-  lastteleport: 1604891408386
+  lastteleport: 1604892234426
   logout: 1604884786101
 ipAddress: 98.225.134.191
 lastlocation:
   world: world
-  x: -97.97108426293482
-  y: 8.0
-  z: -7.838429933946077
-  yaw: 16.51643
-  pitch: -9.450119
+  x: 273.0053457956167
+  y: 77.51088006628522
+  z: -2.766349828592756
+  yaw: 317.2475
+  pitch: 4.199846
 afk: false
 logoutlocation:
   world: world
