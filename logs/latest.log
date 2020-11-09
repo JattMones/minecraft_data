@@ -699,3 +699,156 @@
 [04:23:21] [Server thread/INFO]: MattGoesHAM issued server command: /warp spawn
 [04:23:21] [Server thread/WARN]: MattGoesHAM moved too quickly! 22.931641955774722,74.0,-141.52583267908844
 [04:23:29] [Server thread/INFO]: SkimShady issued server command: /tp mattgoesham skimshady
+[04:24:03] [Server thread/INFO]: SamHarrisonZ issued server command: /warp world_tower_top
+[04:24:19] [Server thread/INFO]: MattGoesHAM issued server command: /kill SkimShady
+[04:24:19] [Server thread/INFO]: SkimShady died
+[04:24:25] [Server thread/INFO]: SkimShady issued server command: /tp mattgoesham
+[04:24:32] [Server thread/INFO]: SkimShady issued server command: /gamemode creative
+[04:24:40] [Server thread/INFO]: SkimShady issued server command: /mattgoesham
+[04:24:57] [Server thread/INFO]: SamHarrisonZ issued server command: /jail SkimShady
+[04:25:00] [Server thread/INFO]: MattGoesHAM issued server command: /tp SkimShady MattGoesHAM
+[04:25:11] [Server thread/INFO]: SkimShady issued server command: /nuke mattgoesham
+[04:25:24] [Server thread/INFO]: SamHarrisonZ issued server command: /nuke SkimShady
+[04:25:35] [Server thread/INFO]: SamHarrisonZ issued server command: /nuke SkimShady
+[04:25:40] [Server thread/INFO]: SamHarrisonZ issued server command: /nuke MattGoesHAM
+[04:25:40] [Server thread/INFO]: SkimShady issued server command: /nuke mattgoesham 40
+[04:25:59] [Server thread/INFO]: SkimShady issued server command: /jumpto
+[04:26:06] [Server thread/INFO]: SkimShady issued server command: /warps world_tower_mid
+[04:26:14] [Server thread/INFO]: MattGoesHAM issued server command: //copy
+[04:26:17] [Server thread/INFO]: SkimShady issued server command: /warps world_tower_bot
+[04:26:18] [Server thread/INFO]: MattGoesHAM issued server command: //paste
+[04:26:21] [Server thread/INFO]: MattGoesHAM issued server command: //paste
+[04:26:24] [Server thread/INFO]: SkimShady issued server command: /tp mattgoesham
+[04:28:06] [Server thread/INFO]: MattGoesHAM issued server command: /warp world_tower_mid
+[04:29:27] [Server thread/INFO]: SkimShady issued server command: /undo
+[04:29:38] [Server thread/INFO]: SkimShady issued server command: /set 0
+[04:29:41] [Server thread/INFO]: SkimShady issued server command: //set 0
+[04:29:50] [Server thread/INFO]: SkimShady issued server command: //set 0
+[04:30:04] [Server thread/INFO]: SkimShady issued server command: //copy
+[04:30:10] [Server thread/INFO]: SkimShady issued server command: //paste
+[04:30:18] [Server thread/INFO]: SkimShady issued server command: //paste
+[04:30:35] [Server thread/INFO]: SkimShady issued server command: //undo
+[04:31:24] [Server thread/INFO]: SkimShady issued server command: //paste
+[04:31:49] [Server thread/INFO]: SkimShady issued server command: //paste
+[04:31:55] [Server thread/INFO]: SkimShady issued server command: /time set 0
+[04:32:07] [Server thread/INFO]: SkimShady issued server command: //paste
+[04:34:49] [Server thread/INFO]: SkimShady issued server command: //copy
+[04:35:08] [Server thread/INFO]: SkimShady issued server command: //paste
+[04:35:23] [Server thread/INFO]: SkimShady issued server command: //undo
+[04:35:33] [Server thread/INFO]: SkimShady issued server command: //paste
+[04:35:52] [Server thread/INFO]: SkimShady issued server command: //paste
+[04:36:17] [Server thread/INFO]: SkimShady issued server command: //paste
+[04:36:27] [Server thread/INFO]: SkimShady issued server command: //undo
+[04:36:36] [Server thread/INFO]: SkimShady issued server command: //paste
+[04:36:48] [Server thread/INFO]: SkimShady issued server command: //undo
+[04:36:51] [Server thread/INFO]: SkimShady issued server command: //paste
+[04:38:03] [Server thread/INFO]: SkimShady issued server command: //set
+[04:38:11] [Server thread/INFO]: SkimShady issued server command: //set minecraft:crimson_hyphae
+[04:38:16] [Server thread/INFO]: SkimShady issued server command: //undo
+[04:38:30] [Server thread/INFO]: SkimShady issued server command: //set minecraft:crimson_hyphae
+[04:38:39] [Async Chat Thread - #7/INFO]: <[brother]SkimShady> e
+[04:40:36] [Server thread/INFO]: SkimShady issued server command: //set minecraft:crimson_hyphae
+[04:40:45] [Server thread/INFO]: SkimShady issued server command: //copy
+[04:40:53] [Server thread/INFO]: SkimShady issued server command: //paste
+[04:41:48] [Server thread/INFO]: SkimShady issued server command: //undo
+[04:41:50] [Server thread/INFO]: SkimShady issued server command: //undo
+[04:42:05] [Server thread/INFO]: SkimShady lost connection: Disconnected
+[04:42:05] [Server thread/INFO]: SkimShady left the game
+[04:42:22] [User Authenticator #6/INFO]: UUID of player SkimShady is 9677d5e0-c1e3-46ea-b498-cd7e67e62a24
+[04:42:22] [Server thread/INFO]: SkimShady joined the game
+[04:42:22] [Server thread/INFO]: SkimShady[/100.6.166.24:59565] logged in with entity id 1761 at ([world]439.240894336226, 107.40824829139503, -192.15450028957824)
+[04:42:31] [Server thread/INFO]: SkimShady issued server command: /time set 0
+[04:47:39] [Server thread/INFO]: SamHarrisonZ issued server command: /warp world_tower_mid
+[04:47:52] [Server thread/INFO]: SamHarrisonZ issued server command: /warp wet_city
+[04:50:15] [Server thread/INFO]: SamHarrisonZ issued server command: /warp world_tower_top
+[04:50:28] [User Authenticator #7/INFO]: UUID of player antster is ca65c882-ac27-4739-a0f5-b8a1c1cc55df
+[04:50:28] [Server thread/INFO]: antster joined the game
+[04:50:28] [Server thread/INFO]: antster[/173.0.77.8:42395] logged in with entity id 1802 at ([world]-70.5, 83.0, -144.5)
+[04:50:28] [pool-37-thread-1/INFO]: [Essentials] Creating empty config: /data/plugins/Essentials/userdata/ca65c882-ac27-4739-a0f5-b8a1c1cc55df.yml
+[04:50:36] [Async Chat Thread - #8/INFO]: <[pledge]antster> sup
+[04:50:57] [Async Chat Thread - #8/INFO]: <[brother]SkimShady> shim?
+[04:51:08] [Async Chat Thread - #8/INFO]: <[admin]MattGoesHAM> yo
+[04:51:33] [Async Chat Thread - #8/INFO]: <[pledge]antster> I am from ancient greece!
+[04:51:48] [Async Chat Thread - #8/INFO]: <[admin]MattGoesHAM> phikia?
+[04:51:53] [Async Chat Thread - #8/INFO]: <[admin]MattGoesHAM> phikeia
+[04:52:05] [Async Chat Thread - #8/INFO]: <[pledge]antster> nah
+[04:52:12] [Server thread/INFO]: SamHarrisonZ issued server command: /top
+[04:52:42] [Async Chat Thread - #8/INFO]: <[pledge]antster> holup
+[04:52:46] [Async Chat Thread - #8/INFO]: <[pledge]antster> wrong server guys
+[04:52:48] [Server thread/INFO]: antster lost connection: Disconnected
+[04:52:48] [Server thread/INFO]: antster left the game
+[04:52:50] [Async Chat Thread - #8/INFO]: <[brother]SamHarrisonZ> lol
+[04:52:53] [Async Chat Thread - #8/INFO]: <[admin]MattGoesHAM> lol
+[04:53:22] [Server thread/INFO]: MattGoesHAM issued server command: /weather sun
+[04:53:25] [Server thread/INFO]: MattGoesHAM issued server command: /time set 0
+[05:02:14] [Server thread/INFO]: SkimShady lost connection: Disconnected
+[05:02:14] [Server thread/INFO]: SkimShady left the game
+[05:03:03] [Server thread/INFO]: MattGoesHAM issued server command: //wand
+[05:04:48] [Server thread/INFO]: MattGoesHAM issued server command: /time set 0
+[05:05:11] [Server thread/INFO]: MattGoesHAM issued server command: //copy
+[05:05:16] [Server thread/INFO]: MattGoesHAM issued server command: //copy
+[05:05:24] [Server thread/INFO]: MattGoesHAM issued server command: /warp wet_city
+[05:05:24] [Server thread/WARN]: MattGoesHAM moved too quickly! 333.07423113569365,-50.0,166.75934250385964
+[05:05:33] [Server thread/INFO]: SamHarrisonZ issued server command: /warp wet_city
+[05:06:59] [Server thread/INFO]: MattGoesHAM issued server command: /tp SamHarrisonZ
+[05:07:56] [Server thread/INFO]: SamHarrisonZ issued server command: //cut
+[05:08:03] [Server thread/INFO]: MattGoesHAM issued server command: //paste
+[05:08:06] [Server thread/INFO]: MattGoesHAM issued server command: //undo
+[05:08:07] [Server thread/INFO]: SamHarrisonZ issued server command: //paste
+[05:08:11] [Server thread/INFO]: MattGoesHAM issued server command: //rotate 90
+[05:08:15] [Server thread/INFO]: MattGoesHAM issued server command: //paste
+[05:08:18] [Server thread/INFO]: MattGoesHAM issued server command: //undo
+[05:08:21] [Server thread/INFO]: MattGoesHAM issued server command: //rotate 90
+[05:08:23] [Server thread/INFO]: MattGoesHAM issued server command: //paste
+[05:08:33] [Server thread/INFO]: MattGoesHAM issued server command: //undo
+[05:08:40] [Server thread/INFO]: MattGoesHAM issued server command: //rotate 180
+[05:08:49] [Server thread/INFO]: MattGoesHAM issued server command: //paste
+[05:14:29] [Server thread/INFO]: MattGoesHAM issued server command: /tp MattGoesHAM SamHarrisonZ
+[05:14:42] [Server thread/INFO]: SamHarrisonZ issued server command: //set 0
+[05:14:59] [Server thread/INFO]: SamHarrisonZ issued server command: //set 0
+[05:15:09] [Server thread/INFO]: MattGoesHAM issued server command: /back
+[05:17:00] [Server thread/INFO]: MattGoesHAM issued server command: //set glass
+[05:22:56] [Server thread/INFO]: SamHarrisonZ issued server command: /warp
+[05:23:01] [Server thread/INFO]: SamHarrisonZ issued server command: /warp world_tower_mid
+[05:23:44] [Server thread/INFO]: SamHarrisonZ issued server command: //set 0
+[05:24:24] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:grass_block
+[05:28:28] [Server thread/INFO]: SamHarrisonZ issued server command: /warp world_tower_top
+[05:30:18] [Async Chat Thread - #9/INFO]: <[admin]MattGoesHAM> https://www.youtube.com/watch?v=YDE3DSANEU0
+[05:30:59] [Server thread/INFO]: MattGoesHAM lost connection: Disconnected
+[05:30:59] [Server thread/INFO]: MattGoesHAM left the game
+[05:31:20] [Server thread/INFO]: SamHarrisonZ issued server command: /warp world_tower_top
+[05:31:24] [Server thread/INFO]: SamHarrisonZ lost connection: Disconnected
+[05:31:24] [Server thread/INFO]: SamHarrisonZ left the game
+[05:32:07] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[05:32:07] [Server thread/INFO]: [Rcon: Stopping the server]
+[05:32:07] [RCON Client /127.0.0.1 #2/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[05:32:07] [Server thread/INFO]: Stopping server
+[05:32:07] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.18.0.0
+[05:32:07] [Server thread/INFO]: [Essentials] Disabling Essentials v2.18.1.0
+[05:32:07] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[05:32:07] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.3;5407315
+[05:32:07] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[05:32:07] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[05:32:07] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[05:32:07] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.1.0;8e55131
+[05:32:07] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[05:32:07] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.1.93
+[05:32:07] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[05:32:07] [Server thread/INFO]: [LuckPerms] Closing storage...
+[05:32:07] [Server thread/INFO]: [LuckPerms] Goodbye!
+[05:32:07] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.1.6
+[05:32:07] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[05:32:07] [Server thread/INFO]: Saving players
+[05:32:08] [Server thread/INFO]: Saving worlds
+[05:32:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:32:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:32:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[05:32:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:32:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[05:32:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:32:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:32:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:32:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:32:09] [Server thread/INFO]: Flushing Chunk IO
+[05:32:09] [Server thread/INFO]: Closing Thread Pool
+[05:32:09] [Server thread/INFO]: Closing Server
