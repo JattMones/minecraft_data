@@ -249,3 +249,290 @@
 [01:32:52] [Server thread/INFO]: SkimShady issued server command: /warp spawn
 [01:33:11] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:glass
 [01:34:12] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:light_blue_stained_glass_pane
+[01:36:36] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:light_blue_stained_glass_pane
+[01:39:25] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:light_blue_stained_glass_pane
+[01:42:17] [Server thread/INFO]: SkimShady issued server command: /time set 0
+[01:42:43] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:light_blue_stained_glass_pane
+[01:43:03] [User Authenticator #3/INFO]: UUID of player MattGoesHAM is d8ad3fe0-e950-46fd-9505-1dc14f167c0d
+[01:43:03] [Server thread/INFO]: MattGoesHAM joined the game
+[01:43:03] [Server thread/INFO]: MattGoesHAM[/67.253.232.63:53953] logged in with entity id 478 at ([world]-46.537906098988714, 83.20000004768372, -170.8735185668276)
+[01:43:09] [Server thread/INFO]: SkimShady issued server command: //set minecraft:gilded_blackstone
+[01:44:16] [Server thread/INFO]: SkimShady issued server command: //copy
+[01:44:28] [Server thread/INFO]: SkimShady issued server command: //paste
+[01:44:42] [Server thread/INFO]: SkimShady issued server command: //undo
+[01:44:46] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:sea_lantern
+[01:44:48] [Server thread/INFO]: SkimShady issued server command: //paste
+[01:44:53] [Server thread/INFO]: SkimShady issued server command: //undo
+[01:45:04] [Server thread/INFO]: SkimShady issued server command: //paste
+[01:45:10] [Server thread/INFO]: SkimShady issued server command: //undo
+[01:45:16] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:smooth_blackstone_slab
+[01:45:18] [Server thread/INFO]: SkimShady issued server command: //paste
+[01:45:25] [Server thread/INFO]: SkimShady issued server command: //undo
+[01:45:33] [Server thread/INFO]: SkimShady issued server command: //copy
+[01:45:49] [Server thread/INFO]: SkimShady issued server command: //paste
+[01:45:52] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:polished_blackstone_slab
+[01:46:10] [Server thread/INFO]: SkimShady issued server command: //paste
+[01:46:28] [Server thread/INFO]: SkimShady issued server command: //paste
+[01:46:31] [Server thread/INFO]: MattGoesHAM issued server command: //set minecraft:glass
+[01:46:43] [Server thread/INFO]: MattGoesHAM issued server command: /tp SamHarrisonZ
+[01:49:28] [Server thread/INFO]: MattGoesHAM issued server command: /help worldguard
+[01:49:38] [Server thread/INFO]: MattGoesHAM issued server command: /help 15
+[01:49:42] [Server thread/INFO]: SkimShady issued server command: //undo
+[01:49:44] [Server thread/INFO]: MattGoesHAM issued server command: /help 16
+[01:49:47] [Server thread/INFO]: SkimShady issued server command: //undo
+[01:49:49] [Server thread/INFO]: MattGoesHAM issued server command: /help 17
+[01:49:49] [Server thread/INFO]: SkimShady issued server command: //redo
+[01:49:50] [Server thread/INFO]: SkimShady issued server command: //redo
+[01:51:04] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:polished_blackstone
+[01:51:48] [Server thread/INFO]: MattGoesHAM issued server command: /tpa SamHarrisonZ
+[01:51:57] [Server thread/INFO]: SamHarrisonZ issued server command: /tpaccept
+[01:51:57] [Server thread/WARN]: MattGoesHAM moved too quickly! -20.41693306084089,-38.169511845189774,122.2129511317977
+[01:52:10] [Server thread/INFO]: MattGoesHAM issued server command: /tpa SamHarrisonZ
+[01:52:11] [Server thread/INFO]: SkimShady issued server command: /tp accept
+[01:52:16] [Server thread/INFO]: SamHarrisonZ issued server command: /tpdeny
+[01:52:27] [Server thread/INFO]: MattGoesHAM issued server command: /warp spawn
+[01:52:27] [Server thread/WARN]: MattGoesHAM moved too quickly! 26.309849624754506,37.0,-135.0
+[01:53:08] [Server thread/INFO]: SkimShady issued server command: /time set 0
+[01:54:17] [Server thread/INFO]: SkimShady issued server command: //set minecraft:crimson_hyphae
+[01:54:25] [Server thread/INFO]: SkimShady issued server command: //undo
+[01:56:13] [Server thread/INFO]: SkimShady issued server command: //set minecraft:crimson_hyphae
+[01:56:39] [Server thread/INFO]: SkimShady issued server command: //set minecraft:crimson_hyphae
+[01:57:12] [Server thread/INFO]: SkimShady issued server command: //set minecraft:crimson_hyphae
+[01:57:31] [Server thread/INFO]: SkimShady issued server command: //set minecraft:crimson_hyphae
+[01:58:05] [Server thread/INFO]: MattGoesHAM issued server command: /help 17
+[01:58:09] [Server thread/INFO]: MattGoesHAM issued server command: /help 16
+[01:59:16] [Server thread/INFO]: SkimShady issued server command: //set 3
+[01:59:19] [Server thread/INFO]: SkimShady issued server command: //undo
+[01:59:21] [Server thread/INFO]: SkimShady issued server command: //set stone
+[02:00:18] [Server thread/INFO]: SkimShady issued server command: //set stone
+[02:00:21] [Server thread/INFO]: SkimShady issued server command: //undo
+[02:00:38] [Server thread/INFO]: SkimShady issued server command: //set stone
+[02:00:41] [Server thread/INFO]: SkimShady issued server command: //undo
+[02:00:52] [Server thread/INFO]: SkimShady issued server command: //set stone
+[02:00:57] [Server thread/INFO]: SkimShady issued server command: //undo
+[02:01:11] [Server thread/INFO]: SkimShady issued server command: //set stone
+[02:01:59] [Server thread/INFO]: SamHarrisonZ issued server command: //set 0
+[02:02:17] [Server thread/INFO]: MattGoesHAM issued server command: /help 15
+[02:02:21] [Server thread/INFO]: MattGoesHAM issued server command: /help 14
+[02:02:30] [Server thread/INFO]: MattGoesHAM issued server command: /help 13
+[02:03:13] [Server thread/INFO]: MattGoesHAM issued server command: /sudo SkimShady kill SkimShady
+[02:03:33] [Server thread/INFO]: SkimShady issued server command: /time set 0
+[02:03:33] [Server thread/INFO]: MattGoesHAM issued server command: /sudo SkimShady kill SamHarrisonZ
+[02:03:41] [Server thread/INFO]: MattGoesHAM issued server command: /sudo SamHarrisonZ kill SkimShady
+[02:03:50] [Server thread/INFO]: MattGoesHAM issued server command: /sudo * kill SkimShady
+[02:04:10] [Server thread/INFO]: MattGoesHAM issued server command: /help 16
+[02:04:12] [Server thread/INFO]: MattGoesHAM issued server command: /help 15
+[02:04:18] [Server thread/INFO]: MattGoesHAM issued server command: /help 14
+[02:04:20] [Server thread/INFO]: SamHarrisonZ issued server command: //set 0
+[02:05:15] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
+[02:05:25] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
+[02:05:33] [Server thread/INFO]: MattGoesHAM issued server command: /help 13
+[02:05:36] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
+[02:05:48] [Server thread/INFO]: MattGoesHAM issued server command: /help 12
+[02:06:12] [Server thread/INFO]: MattGoesHAM issued server command: /help 12
+[02:06:16] [Server thread/INFO]: MattGoesHAM issued server command: /help 11
+[02:06:16] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
+[02:06:19] [Server thread/INFO]: SkimShady issued server command: //
+[02:06:28] [Server thread/INFO]: MattGoesHAM issued server command: /rules
+[02:06:29] [Server thread/INFO]: SkimShady issued server command: //set minecraft:gilded_blackstone
+[02:06:34] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
+[02:07:01] [Server thread/INFO]: SkimShady issued server command: //set minecraft:gilded_blackstone
+[02:07:37] [Server thread/INFO]: SkimShady issued server command: //set minecraft:gilded_blackstone
+[02:07:46] [Server thread/INFO]: SkimShady issued server command: //set 0
+[02:07:56] [Server thread/INFO]: SkimShady issued server command: //undo
+[02:07:57] [Server thread/INFO]: SkimShady issued server command: //undo
+[02:07:59] [Server thread/INFO]: SkimShady issued server command: //undo
+[02:08:00] [Server thread/INFO]: SkimShady issued server command: //undo
+[02:09:05] [Server thread/INFO]: MattGoesHAM issued server command: /help 11
+[02:10:00] [Server thread/INFO]: MattGoesHAM issued server command: /help 11
+[02:10:04] [Server thread/INFO]: MattGoesHAM issued server command: /help 10
+[02:10:31] [Server thread/INFO]: MattGoesHAM issued server command: /help 9
+[02:11:05] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:light_blue_stained_glass
+[02:11:26] [Server thread/INFO]: MattGoesHAM issued server command: /me MattGoesHAM
+[02:11:37] [Async Chat Thread - #0/INFO]: <[admin]MattGoesHAM> t
+[02:11:47] [Server thread/INFO]: MattGoesHAM issued server command: /me MattGoesHAM poops on SamHarrisonZ
+[02:12:06] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:light_blue_stained_glass
+[02:12:29] [Server thread/INFO]: MattGoesHAM issued server command: /help 8
+[02:12:48] [Server thread/INFO]: SkimShady issued server command: /warp spawn
+[02:13:00] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_pillar
+[02:13:13] [Server thread/INFO]: MattGoesHAM issued server command: /kit
+[02:13:30] [Server thread/INFO]: MattGoesHAM issued server command: /7
+[02:13:37] [Server thread/INFO]: MattGoesHAM issued server command: /help 7
+[02:13:49] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:light_blue_stained_glass
+[02:13:52] [Server thread/INFO]: MattGoesHAM issued server command: /jails
+[02:14:10] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_pillar
+[02:14:12] [Server thread/INFO]: MattGoesHAM issued server command: /help 6
+[02:14:49] [Server thread/INFO]: MattGoesHAM issued server command: /help 5
+[02:15:15] [Server thread/INFO]: MattGoesHAM issued server command: /help 4
+[02:15:29] [Server thread/INFO]: MattGoesHAM issued server command: /help 3
+[02:15:54] [Server thread/INFO]: MattGoesHAM issued server command: /burn SkimShady
+[02:15:58] [Server thread/INFO]: MattGoesHAM issued server command: /burn SkimShady 10
+[02:16:10] [Server thread/INFO]: MattGoesHAM issued server command: /burn SamHarrisonZ 10
+[02:16:24] [Server thread/INFO]: MattGoesHAM issued server command: /gm 0 SkimShady
+[02:16:28] [Server thread/INFO]: MattGoesHAM issued server command: /burn SkimShady 10
+[02:16:31] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_pillar
+[02:16:42] [Server thread/INFO]: MattGoesHAM issued server command: /burn SkimShady 10
+[02:16:45] [Server thread/INFO]: SkimShady issued server command: /gamemode creative
+[02:16:48] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:light_blue_stained_glass
+[02:16:51] [Server thread/INFO]: MattGoesHAM issued server command: /burn SkimShady 10
+[02:16:56] [Server thread/INFO]: MattGoesHAM issued server command: /burn SkimShady 10
+[02:17:04] [Server thread/INFO]: SkimShady issued server command: //set minecraft:redstone_block
+[02:17:25] [Server thread/INFO]: MattGoesHAM issued server command: /
+[02:17:31] [Server thread/INFO]: MattGoesHAM issued server command: /help 2
+[02:17:44] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:sea_lantern
+[02:18:03] [Server thread/INFO]: SkimShady issued server command: //set 3
+[02:18:05] [Server thread/INFO]: SkimShady issued server command: //set 4
+[02:18:07] [Server thread/INFO]: SkimShady issued server command: //set 2
+[02:18:08] [Server thread/INFO]: MattGoesHAM issued server command: /help 1
+[02:18:24] [Server thread/INFO]: SkimShady issued server command: //set 2
+[02:18:36] [Server thread/INFO]: SkimShady issued server command: //set 2
+[02:19:11] [Server thread/INFO]: SkimShady issued server command: //set minecraft:redstone_block
+[02:19:28] [Server thread/INFO]: SkimShady issued server command: //set minecraft:redstone_block
+[02:19:35] [Server thread/INFO]: MattGoesHAM issued server command: /help 10
+[02:19:39] [Server thread/INFO]: MattGoesHAM issued server command: /help 11
+[02:19:45] [Server thread/INFO]: SkimShady issued server command: //set minecraft:redstone_block
+[02:19:49] [Server thread/INFO]: SamHarrisonZ issued server command: //set 0
+[02:19:58] [Server thread/INFO]: MattGoesHAM issued server command: /help 13
+[02:20:16] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:polished_blackstone_bricks
+[02:20:23] [Server thread/INFO]: MattGoesHAM issued server command: /help 15
+[02:20:34] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:polished_blackstone_bricks
+[02:22:06] [Server thread/INFO]: MattGoesHAM issued server command: /help 16
+[02:22:16] [Server thread/INFO]: MattGoesHAM issued server command: /help 17
+[02:22:22] [Server thread/INFO]: MattGoesHAM issued server command: /help 14
+[02:22:31] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:polished_blackstone_bricks
+[02:22:50] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:polished_blackstone_bricks
+[02:24:14] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
+[02:25:48] [Server thread/INFO]: MattGoesHAM issued server command: /help 14
+[02:26:20] [Server thread/INFO]: MattGoesHAM issued server command: /help 16
+[02:26:26] [Server thread/INFO]: MattGoesHAM issued server command: /help 15
+[02:26:28] [Server thread/INFO]: MattGoesHAM issued server command: /help 14
+[02:26:32] [Server thread/INFO]: MattGoesHAM issued server command: /help 13
+[02:26:35] [Server thread/INFO]: MattGoesHAM issued server command: /help 12
+[02:26:44] [Server thread/INFO]: SkimShady issued server command: /warps wet_city
+[02:26:49] [Server thread/INFO]: MattGoesHAM issued server command: /help 11
+[02:27:04] [Server thread/INFO]: MattGoesHAM issued server command: /help 10
+[02:27:41] [Server thread/INFO]: MattGoesHAM issued server command: /help 9
+[02:27:55] [Server thread/INFO]: SkimShady lost connection: Disconnected
+[02:27:55] [Server thread/INFO]: SkimShady left the game
+[02:28:01] [Server thread/INFO]: MattGoesHAM issued server command: /help 8
+[02:28:09] [Server thread/INFO]: MattGoesHAM issued server command: /help 7
+[02:28:17] [Server thread/INFO]: MattGoesHAM issued server command: /help 6
+[02:28:23] [Server thread/INFO]: MattGoesHAM issued server command: /help 5
+[02:28:27] [Server thread/INFO]: MattGoesHAM issued server command: /help 4
+[02:29:49] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:polished_blackstone
+[02:30:28] [Server thread/INFO]: MattGoesHAM issued server command: /help 3
+[02:30:34] [Server thread/INFO]: MattGoesHAM issued server command: /help 2
+[02:30:37] [Server thread/INFO]: MattGoesHAM issued server command: /help 1
+[02:30:42] [Server thread/INFO]: MattGoesHAM issued server command: /help 17
+[02:30:50] [Server thread/INFO]: MattGoesHAM issued server command: /help 15
+[02:31:26] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:polished_blackstone
+[02:32:18] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:polished_blackstone
+[02:34:17] [Server thread/INFO]: MattGoesHAM issued server command: /time set 0
+[02:35:08] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:smooth_quartz
+[02:35:21] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
+[02:36:10] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
+[02:37:02] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
+[02:38:12] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
+[02:38:55] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
+[02:39:03] [Server thread/INFO]: MattGoesHAM issued server command: /time help 14
+[02:39:09] [Server thread/INFO]: MattGoesHAM issued server command: /help 14
+[02:39:12] [Server thread/INFO]: MattGoesHAM issued server command: /help 13
+[02:39:15] [Server thread/INFO]: MattGoesHAM issued server command: /help 12
+[02:39:39] [Server thread/INFO]: MattGoesHAM issued server command: /team
+[02:39:44] [Server thread/INFO]: MattGoesHAM issued server command: /team list
+[02:40:05] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
+[02:40:56] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
+[02:41:34] [Server thread/INFO]: MattGoesHAM issued server command: /tpr
+[02:42:00] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
+[02:42:13] [Server thread/INFO]: MattGoesHAM issued server command: /time set night
+[02:42:53] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
+[02:43:19] [Server thread/INFO]: MattGoesHAM issued server command: /time set 0
+[02:43:25] [Server thread/INFO]: MattGoesHAM issued server command: /warp spawn
+[02:43:45] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
+[02:44:10] [Server thread/INFO]: MattGoesHAM issued server command: /help 12
+[02:44:25] [Server thread/INFO]: MattGoesHAM issued server command: /editsign
+[02:44:42] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
+[02:45:22] [Server thread/INFO]: MattGoesHAM issued server command: /help 11
+[02:45:34] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
+[02:45:35] [Server thread/INFO]: MattGoesHAM issued server command: /help 10
+[02:45:56] [Server thread/INFO]: MattGoesHAM issued server command: /help 9
+[02:46:19] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
+[02:46:23] [Server thread/INFO]: MattGoesHAM issued server command: /help 8
+[02:46:26] [Server thread/INFO]: MattGoesHAM issued server command: /help 7
+[02:46:33] [Server thread/INFO]: MattGoesHAM issued server command: /weather clear
+[02:46:38] [Server thread/INFO]: MattGoesHAM issued server command: /help 6
+[02:46:45] [Server thread/INFO]: MattGoesHAM issued server command: /help 5
+[02:46:49] [Server thread/INFO]: MattGoesHAM issued server command: /help 4
+[02:46:56] [Server thread/INFO]: MattGoesHAM issued server command: /help 3
+[02:47:00] [Server thread/INFO]: MattGoesHAM issued server command: /help 2
+[02:47:03] [Server thread/INFO]: MattGoesHAM issued server command: /help 1
+[02:47:07] [Server thread/INFO]: MattGoesHAM issued server command: /help 17
+[02:47:11] [Server thread/INFO]: MattGoesHAM issued server command: /help 16
+[02:47:16] [Server thread/INFO]: MattGoesHAM issued server command: /help 15
+[02:47:19] [Server thread/INFO]: MattGoesHAM issued server command: /help 15
+[02:47:25] [Server thread/INFO]: MattGoesHAM issued server command: /help 14
+[02:47:31] [Server thread/INFO]: MattGoesHAM issued server command: /help 13
+[02:47:35] [Server thread/INFO]: MattGoesHAM issued server command: /help 12
+[02:47:45] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
+[02:48:41] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
+[02:49:54] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
+[02:50:06] [Server thread/INFO]: MattGoesHAM issued server command: /help 14
+[02:50:11] [Server thread/INFO]: MattGoesHAM issued server command: /help 15
+[02:50:14] [Server thread/INFO]: MattGoesHAM issued server command: /help 16
+[02:50:19] [Server thread/INFO]: MattGoesHAM issued server command: /help 17
+[02:50:26] [Server thread/INFO]: MattGoesHAM issued server command: /help 15
+[02:50:28] [Server thread/INFO]: MattGoesHAM issued server command: /help 14
+[02:50:34] [Server thread/INFO]: MattGoesHAM issued server command: /help 13
+[02:50:38] [Server thread/INFO]: MattGoesHAM issued server command: /help 12
+[02:50:41] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
+[02:51:27] [Server thread/INFO]: MattGoesHAM issued server command: /editsign set 4 /seen:logout
+[02:51:55] [Server thread/INFO]: MattGoesHAM issued server command: /editsign set 4 /seen:last on
+[02:52:25] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
+[02:53:23] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
+[02:54:27] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
+[02:55:20] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
+[02:56:06] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
+[02:56:25] [Server thread/INFO]: MattGoesHAM issued server command: /help 11
+[02:56:42] [Server thread/INFO]: MattGoesHAM issued server command: /help 10
+[02:56:47] [Server thread/INFO]: MattGoesHAM issued server command: /help 9
+[02:56:55] [Server thread/INFO]: MattGoesHAM issued server command: /help 8
+[02:57:03] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
+[02:57:10] [Server thread/INFO]: MattGoesHAM issued server command: /help 8
+[02:57:13] [Server thread/INFO]: MattGoesHAM issued server command: /help 7
+[02:57:31] [Server thread/INFO]: MattGoesHAM issued server command: /home
+[02:57:35] [Server thread/INFO]: MattGoesHAM issued server command: /homes
+[02:57:40] [Server thread/INFO]: MattGoesHAM issued server command: /homes
+[02:57:47] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
+[02:58:14] [Server thread/INFO]: MattGoesHAM issued server command: /editsign set 4 /home:tp 2 bed
+[02:58:29] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
+[02:58:35] [Server thread/INFO]: MattGoesHAM has made the advancement [Sweet Dreams]
+[02:58:45] [Server thread/INFO]: MattGoesHAM issued server command: /home
+[02:58:50] [Server thread/INFO]: MattGoesHAM issued server command: /home
+[02:58:57] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
+[02:59:35] [Server thread/INFO]: MattGoesHAM issued server command: /help 6
+[02:59:36] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
+[02:59:59] [Server thread/INFO]: MattGoesHAM issued server command: /help 6
+[03:00:05] [Server thread/INFO]: MattGoesHAM issued server command: /help 5
+[03:00:11] [Server thread/INFO]: MattGoesHAM issued server command: /help 4
+[03:00:16] [Server thread/INFO]: MattGoesHAM issued server command: /help 3
+[03:00:29] [Server thread/INFO]: MattGoesHAM issued server command: /help 2
+[03:00:37] [Server thread/INFO]: MattGoesHAM issued server command: /help 1
+[03:00:40] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
+[03:00:43] [Server thread/INFO]: MattGoesHAM issued server command: /help 11
+[03:01:04] [Server thread/INFO]: MattGoesHAM issued server command: /help 10
+[03:01:42] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:polished_blackstone
+[03:02:13] [Server thread/INFO]: MattGoesHAM issued server command: /tp SamHarrisonZ
+[03:02:26] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:polished_blackstone
+[03:03:10] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:polished_blackstone
+[03:03:49] [Server thread/INFO]: MattGoesHAM issued server command: /top
+[03:04:09] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:polished_blackstone
+[03:04:23] [Server thread/INFO]: MattGoesHAM issued server command: /top
+[03:04:23] [Server thread/WARN]: MattGoesHAM moved too quickly! 0.22032626354585716,230.74598040420332,-0.3270198463693532
+[03:04:23] [Server thread/WARN]: MattGoesHAM moved too quickly! 0.22032626354585716,230.74598040420332,-0.3270198463693532
+[03:04:39] [Server thread/INFO]: MattGoesHAM issued server command: /top
+[03:04:57] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:polished_blackstone
+[03:09:23] [Server thread/INFO]: SamHarrisonZ issued server command: /rules
+[03:09:30] [Server thread/INFO]: MattGoesHAM issued server command: /top
+[03:09:30] [Server thread/WARN]: MattGoesHAM moved too quickly! 0.14597937413621764,248.0,-0.07920046603157971
+[03:09:35] [Server thread/INFO]: SamHarrisonZ issued server command: /top
+[03:10:08] [Server thread/INFO]: SamHarrisonZ issued server command: /top

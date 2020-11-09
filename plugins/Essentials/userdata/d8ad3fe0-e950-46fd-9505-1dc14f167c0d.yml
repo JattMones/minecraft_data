@@ -1,8 +1,8 @@
 lastAccountName: MattGoesHAM
 timestamps:
-  login: 1604875182177
+  login: 1604886183588
   logout: 1604884786103
-  lastteleport: 1604879438585
+  lastteleport: 1604891370812
 ipAddress: 67.253.232.63
 logoutlocation:
   world: world
@@ -11,11 +11,11 @@ logoutlocation:
   z: -132.58794634834456
   yaw: -106.95587
   pitch: -6.8746824
-afk: true
+afk: false
 lastlocation:
   world: world
-  x: -46.537906098988714
-  y: 83.20000004768372
-  z: -170.8735185668276
-  yaw: -351.4504
-  pitch: 35.699993
+  x: -98.64597937413622
+  y: 8.0
+  z: -7.42079953396842
+  yaw: 134.72108
+  pitch: 18.59992
