@@ -1,21 +1,21 @@
 lastAccountName: SkimShady
 timestamps:
-  login: 1604726665845
-  lastteleport: 1604723086261
-  logout: 1604734083415
+  login: 1604885490493
+  lastteleport: 1604885572951
+  logout: 1604885433895
 ipAddress: 100.6.166.24
 lastlocation:
   world: world
-  x: -62.164077696011205
-  y: 108.0
-  z: 6.745143103435337
-  yaw: -57.556976
-  pitch: 73.33532
-afk: true
+  x: 370.31909440675855
+  y: 128.74155209024238
+  z: 87.09654385197746
+  yaw: 73.3811
+  pitch: 29.50312
+afk: false
 logoutlocation:
   world: world
-  x: 308.33144677014843
-  y: 32.0
-  z: 28.037984620370295
-  yaw: 18.648712
-  pitch: 15.445666
+  x: 399.4444248327818
+  y: 81.87788763256657
+  z: -96.67388483255448
+  yaw: -3.640503
+  pitch: 31.603666
