@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone": {
+    "criteria": {
+      "has_vine": "2020-11-22 20:01:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2020-09-09 00:29:55 +0000"
@@ -170,6 +176,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-11-08 23:02:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2020-11-22 19:03:15 +0000"
     },
     "done": true
   },
@@ -501,6 +513,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2020-09-09 00:56:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2020-11-22 19:03:18 +0000"
     },
     "done": true
   },
@@ -937,8 +955,10 @@
       "minecraft:taiga": "2020-09-01 16:22:31 +0000",
       "minecraft:deep_lukewarm_ocean": "2020-11-07 03:32:35 +0000",
       "minecraft:beach": "2020-11-07 22:07:06 +0000",
+      "minecraft:dark_forest": "2020-11-21 21:14:21 +0000",
       "minecraft:river": "2020-11-07 02:38:15 +0000",
       "minecraft:lukewarm_ocean": "2020-11-07 03:32:36 +0000",
+      "minecraft:birch_forest_hills": "2020-11-21 21:18:45 +0000",
       "minecraft:wooded_mountains": "2020-11-07 22:03:44 +0000",
       "minecraft:bamboo_jungle_hills": "2020-11-10 01:59:15 +0000",
       "minecraft:wooded_hills": "2020-11-07 02:05:47 +0000",

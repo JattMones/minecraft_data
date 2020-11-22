@@ -1,344 +1,610 @@
-[00:27:31] [User Authenticator #4/INFO]: UUID of player MattGoesHAM is d8ad3fe0-e950-46fd-9505-1dc14f167c0d
-[00:27:32] [Server thread/INFO]: MattGoesHAM joined the game
-[00:27:32] [Server thread/INFO]: MattGoesHAM[/67.253.232.63:55767] logged in with entity id 223 at ([world]274.16019091263547, 53.200000047683716, -13.252918882538133)
-[00:27:37] [Server thread/INFO]: MattGoesHAM issued server command: /pla
-[00:27:43] [Server thread/INFO]: MattGoesHAM issued server command: /playerskull
-[00:27:52] [Server thread/INFO]: MattGoesHAM issued server command: /playerlist
-[00:28:06] [Server thread/INFO]: MattGoesHAM lost connection: Disconnected
-[00:28:06] [Server thread/INFO]: MattGoesHAM left the game
-[00:28:10] [User Authenticator #4/INFO]: UUID of player MattGoesHAM is d8ad3fe0-e950-46fd-9505-1dc14f167c0d
-[00:28:10] [Server thread/INFO]: MattGoesHAM joined the game
-[00:28:10] [Server thread/INFO]: MattGoesHAM[/67.253.232.63:55772] logged in with entity id 228 at ([world]270.9712741036947, 52.08240710983457, -12.731551635446852)
-[00:28:27] [Server thread/INFO]: MattGoesHAM issued server command: /time set 0
-[01:26:44] [Server thread/INFO]: com.mojang.authlib.GameProfile@7166f755[id=<null>,name=SamHarrisonZ,properties={},legacy=false] (/98.225.134.191:59262) lost connection: Disconnected
-[01:26:50] [Server thread/INFO]: com.mojang.authlib.GameProfile@62231790[id=<null>,name=SamHarrisonZ,properties={},legacy=false] (/98.225.134.191:59268) lost connection: Disconnected
-[01:29:28] [User Authenticator #5/INFO]: UUID of player SamHarrisonZ is 20e6092f-fcf2-43b2-889e-cea009a08f57
-[01:29:28] [Server thread/INFO]: SamHarrisonZ joined the game
-[01:29:28] [Server thread/INFO]: SamHarrisonZ[/98.225.134.191:59374] logged in with entity id 239 at ([world]-93.5, 248.0, -7.5)
-[01:33:38] [Server thread/INFO]: SamHarrisonZ issued server command: /teleport MattGoesHAM
-[01:35:24] [Server thread/INFO]: SamHarrisonZ issued server command: /warp observatory
-[01:35:35] [Craft Scheduler Thread - 17/INFO]: [Vault] Checking for Updates ... 
-[01:35:35] [Craft Scheduler Thread - 17/INFO]: [Vault] No new version available
-[01:45:34] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:glass
-[01:53:03] [User Authenticator #6/INFO]: UUID of player SkimShady is 9677d5e0-c1e3-46ea-b498-cd7e67e62a24
-[01:53:03] [Server thread/INFO]: SkimShady joined the game
-[01:53:03] [Server thread/INFO]: SkimShady[/100.6.166.24:63530] logged in with entity id 407 at ([world]439.7210450574013, 75.0, -112.37005166905462)
-[01:53:22] [Server thread/INFO]: SkimShady issued server command: /survivalmode mattgoesham
-[01:53:30] [Server thread/INFO]: SkimShady issued server command: /lightning mattgoesham 4
-[01:53:39] [Server thread/INFO]: SkimShady issued server command: /lightning matt
-[01:53:43] [Server thread/INFO]: SkimShady issued server command: /lightning matt
-[01:53:43] [Server thread/INFO]: MattGoesHAM died
-[01:53:45] [Async Chat Thread - #0/INFO]: <[brother]SkimShady> smited
-[01:53:56] [Server thread/INFO]: SkimShady issued server command: /tp sam
-[01:54:35] [Server thread/INFO]: SkimShady issued server command: /tp matt
-[01:54:53] [Server thread/INFO]: SkimShady issued server command: /warp spawn
-[01:55:06] [Server thread/INFO]: MattGoesHAM issued server command: /gm 1
-[01:55:13] [Server thread/INFO]: MattGoesHAM issued server command: /weather clear
-[01:55:41] [Server thread/INFO]: MattGoesHAM issued server command: /weather clear
-[01:56:08] [Server thread/INFO]: MattGoesHAM issued server command: /time set 0
-[01:56:19] [Server thread/INFO]: SkimShady issued server command: /setwarp skimshady
-[01:56:19] [pool-37-thread-1/INFO]: [Essentials] Creating empty config: /data/plugins/Essentials/warps/skimshady.yml
-[01:56:30] [Server thread/INFO]: MattGoesHAM issued server command: /sun
-[01:56:45] [Server thread/INFO]: SkimShady issued server command: /warp skims
-[01:57:02] [Server thread/INFO]: SkimShady issued server command: /setwarp base1
-[01:57:02] [pool-37-thread-1/INFO]: [Essentials] Creating empty config: /data/plugins/Essentials/warps/base1.yml
-[01:57:17] [Server thread/INFO]: SkimShady issued server command: /warp base1
-[01:57:19] [Server thread/INFO]: MattGoesHAM lost connection: Disconnected
-[01:57:19] [Server thread/INFO]: MattGoesHAM left the game
-[01:57:23] [User Authenticator #7/INFO]: UUID of player MattGoesHAM is d8ad3fe0-e950-46fd-9505-1dc14f167c0d
-[01:57:23] [Server thread/INFO]: MattGoesHAM joined the game
-[01:57:23] [Server thread/INFO]: MattGoesHAM[/67.253.232.63:55843] logged in with entity id 560 at ([world]-111.12511988139337, 94.27561002999913, -99.05127458949048)
-[01:57:29] [Server thread/INFO]: SkimShady issued server command: /smite mattgoesham
-[01:57:59] [Server thread/INFO]: MattGoesHAM issued server command: /smite SkimShady
-[01:58:03] [Server thread/INFO]: SkimShady issued server command: /survivalmode matt
-[01:58:04] [Server thread/INFO]: MattGoesHAM issued server command: /tp SkimShady
-[01:58:05] [Server thread/INFO]: MattGoesHAM fell from a high place
-[01:58:10] [Server thread/INFO]: MattGoesHAM issued server command: /gm 1
-[01:58:13] [Server thread/INFO]: SkimShady issued server command: /survival matt
-[01:58:17] [Server thread/INFO]: SkimShady issued server command: /lightning matt 5
-[01:58:20] [Server thread/INFO]: SkimShady issued server command: /lightning 5
-[01:58:28] [Server thread/INFO]: SkimShady issued server command: /lightning matt 5
-[01:58:30] [Server thread/INFO]: SkimShady issued server command: /lightning matt 5
-[01:58:34] [Server thread/INFO]: MattGoesHAM issued server command: /vanish MattGoesHAM
-[01:58:42] [Server thread/INFO]: MattGoesHAM fell from a high place
-[01:58:47] [Server thread/INFO]: MattGoesHAM issued server command: /gm 1
-[01:59:08] [Server thread/INFO]: MattGoesHAM issued server command: /warp skimshady
-[01:59:11] [Server thread/INFO]: SkimShady issued server command: /mob bat
-[01:59:20] [Server thread/INFO]: SkimShady issued server command: /mobkill bat
-[01:59:51] [Server thread/INFO]: MattGoesHAM issued server command: /tp SamHarrisonZ
-[01:59:51] [Server thread/WARN]: MattGoesHAM moved too quickly! -523.587041202873,-73.61909527556699,166.12446370229935
-[01:59:53] [Server thread/INFO]: SkimShady issued server command: /tp mat
-[02:00:16] [Server thread/INFO]: SkimShady issued server command: /mob donkey 10
-[02:00:27] [Server thread/INFO]: SkimShady issued server command: /mobkill donkey
-[02:00:32] [Server thread/INFO]: SkimShady issued server command: /tp matt
-[02:00:54] [Server thread/INFO]: MattGoesHAM issued server command: /gm 0 SkimShady
-[02:00:59] [Server thread/INFO]: SkimShady issued server command: /tp mat
-[02:00:59] [Server thread/INFO]: SkimShady fell from a high place
-[02:01:03] [Server thread/INFO]: SkimShady issued server command: /tp mat
-[02:01:09] [Server thread/INFO]: MattGoesHAM issued server command: /gm 0 SkimShady
-[02:01:19] [Server thread/INFO]: SkimShady fell out of the world
-[02:01:23] [Server thread/INFO]: SkimShady issued server command: /creative
-[02:01:25] [Server thread/INFO]: SkimShady issued server command: /tp mat
-[02:01:28] [Server thread/INFO]: MattGoesHAM issued server command: /warp spawn
-[02:01:28] [Server thread/WARN]: MattGoesHAM moved too quickly! 37.585585204477226,79.32760090778459,-133.9402951780789
-[02:02:06] [Server thread/INFO]: MattGoesHAM issued server command: /tp SkimShady
-[02:02:06] [Server thread/WARN]: MattGoesHAM moved too quickly! -53.83899421917745,-85.11650136792812,134.38924516461546
-[02:02:13] [Server thread/INFO]: MattGoesHAM issued server command: /gm 0 SkimShady
-[02:02:13] [Server thread/INFO]: SkimShady issued server command: /mob donkey 15
-[02:02:21] [Server thread/INFO]: SkimShady fell out of the world
-[02:02:27] [Server thread/INFO]: SkimShady issued server command: /creative
-[02:02:30] [Server thread/INFO]: SkimShady issued server command: /tp mat
-[02:02:44] [Server thread/INFO]: MattGoesHAM issued server command: /kill SamHarrisonZ
-[02:02:44] [Server thread/INFO]: SamHarrisonZ died
-[02:02:47] [Server thread/INFO]: SkimShady issued server command: /mob donkey 50
-[02:02:51] [Server thread/INFO]: SamHarrisonZ issued server command: /back
-[02:02:53] [Server thread/INFO]: SkimShady issued server command: /mob cod 10
-[02:02:57] [Server thread/INFO]: SkimShady issued server command: /mob chicken 10
-[02:02:58] [Server thread/INFO]: MattGoesHAM issued server command: /me SamHarrisonZ got assinated by peta
-[02:03:05] [Server thread/INFO]: SkimShady issued server command: /warp spawn
-[02:03:09] [Server thread/INFO]: SamHarrisonZ issued server command: /killall mobs
-[02:03:15] [Server thread/INFO]: MattGoesHAM issued server command: /me SamHarrisonZ was assinated by peta
-[02:03:34] [Server thread/INFO]: SkimShady issued server command: /me mattgoesham
-[02:03:37] [Server thread/INFO]: MattGoesHAM issued server command: /me MattGoesHAM
-[02:03:52] [Server thread/INFO]: MattGoesHAM issued server command: /me MattGoesHAM
-[02:03:54] [Server thread/INFO]: SkimShady issued server command: /help
-[02:03:57] [Server thread/INFO]: SkimShady issued server command: /help2
-[02:04:19] [Server thread/INFO]: SkimShady issued server command: /me sam was smited
-[02:04:29] [Server thread/INFO]: SkimShady issued server command: /tp mat
-[02:04:44] [Server thread/INFO]: SkimShady issued server command: /smite mat
-[02:04:59] [Server thread/INFO]: SkimShady issued server command: /tp mat
-[02:05:07] [Server thread/INFO]: MattGoesHAM issued server command: /gm 0 SkimShady
-[02:05:09] [Server thread/INFO]: SkimShady issued server command: /sur
-[02:05:11] [Server thread/INFO]: SkimShady issued server command: /creative
-[02:05:13] [Server thread/INFO]: MattGoesHAM issued server command: /gm 0 SkimShady
-[02:05:15] [Server thread/INFO]: MattGoesHAM issued server command: /gm 0 SkimShady
-[02:05:19] [Server thread/INFO]: MattGoesHAM issued server command: /gm 0 SkimShady
-[02:05:20] [Server thread/INFO]: MattGoesHAM issued server command: /gm 0 SkimShady
-[02:05:20] [Server thread/INFO]: SkimShady issued server command: /survival mat
-[02:05:22] [Server thread/INFO]: SkimShady issued server command: /smite mat
-[02:05:22] [Server thread/INFO]: MattGoesHAM issued server command: /gm 1
-[02:05:24] [Server thread/INFO]: SkimShady issued server command: /smite mat
-[02:05:26] [Server thread/INFO]: SkimShady issued server command: /smite mat
-[02:05:28] [Server thread/INFO]: SkimShady issued server command: /smite mat
-[02:05:33] [Server thread/INFO]: SkimShady issued server command: /survival mat
-[02:05:36] [Server thread/INFO]: MattGoesHAM issued server command: /kill SamHarrisonZ
-[02:05:36] [Server thread/INFO]: SamHarrisonZ died
-[02:05:37] [Server thread/INFO]: SkimShady issued server command: /smite mat 5
-[02:05:40] [Server thread/INFO]: SkimShady issued server command: /smite mat 5
-[02:05:41] [Server thread/INFO]: MattGoesHAM issued server command: /kill SkimShady
-[02:05:41] [Server thread/INFO]: SkimShady died
-[02:05:43] [Server thread/INFO]: SamHarrisonZ issued server command: /back
-[02:05:56] [Async Chat Thread - #1/INFO]: <[brother]SkimShady> '/'fuck off
-[02:05:56] [Server thread/INFO]: SamHarrisonZ issued server command: /smite MattGoesHAM
-[02:05:57] [Server thread/INFO]: MattGoesHAM issued server command: /gm 1
-[02:06:04] [Server thread/INFO]: SkimShady issued server command: /creativemode
-[02:06:08] [Server thread/INFO]: MattGoesHAM issued server command: /smite SkimShady
-[02:06:09] [Server thread/INFO]: MattGoesHAM issued server command: /smite SkimShady
-[02:06:11] [Server thread/INFO]: MattGoesHAM issued server command: /smite SkimShady
-[02:06:13] [Server thread/INFO]: MattGoesHAM issued server command: /smite SkimShady
-[02:06:14] [Server thread/INFO]: MattGoesHAM issued server command: /smite SkimShady
-[02:06:15] [Server thread/INFO]: MattGoesHAM issued server command: /smite SkimShady
-[02:06:22] [Server thread/INFO]: SkimShady issued server command: /tp mat
-[02:06:30] [Server thread/INFO]: SamHarrisonZ issued server command: /kill MattGoesHAM
-[02:06:30] [Server thread/INFO]: MattGoesHAM died
-[02:06:36] [Async Chat Thread - #1/INFO]: <[brother]SkimShady> e
-[02:06:42] [Async Chat Thread - #1/INFO]: <[brother]SamHarrisonZ> e
-[02:06:46] [Async Chat Thread - #1/INFO]: <[admin]MattGoesHAM> e
-[02:06:50] [Server thread/INFO]: SkimShady issued server command: /tp mat
-[02:07:01] [Async Chat Thread - #1/INFO]: <[admin]MattGoesHAM> e
-[02:07:05] [Async Chat Thread - #1/INFO]: <[brother]SamHarrisonZ> e
-[02:07:16] [Server thread/INFO]: SkimShady issued server command: /tp sam
-[02:07:27] [Server thread/INFO]: SkimShady issued server command: /mob donkey 10
-[02:07:35] [Server thread/INFO]: SamHarrisonZ issued server command: /killall mobs
-[02:07:43] [Server thread/INFO]: SkimShady issued server command: /mob salmon 10
-[02:07:51] [Server thread/INFO]: SkimShady issued server command: /mob salmon 10
-[02:07:55] [Server thread/INFO]: SkimShady issued server command: /mob salmon 10
-[02:08:00] [Server thread/INFO]: SkimShady issued server command: /mob cod 10
-[02:08:01] [Server thread/INFO]: SamHarrisonZ issued server command: /killall mobs
-[02:08:03] [Server thread/INFO]: SkimShady issued server command: /mob cod 10
-[02:08:11] [Server thread/INFO]: SkimShady issued server command: /mobkill
-[02:08:34] [Server thread/INFO]: SkimShady issued server command: /survival mat
-[02:08:42] [Server thread/INFO]: MattGoesHAM issued server command: /gm 1
-[02:08:47] [Server thread/INFO]: MattGoesHAM issued server command: /kill SkimShady
-[02:08:47] [Server thread/INFO]: SkimShady died
-[02:08:52] [Server thread/INFO]: SkimShady issued server command: /killall
-[02:08:58] [Server thread/INFO]: MattGoesHAM lost connection: Disconnected
-[02:08:58] [Server thread/INFO]: MattGoesHAM left the game
-[02:09:21] [Server thread/INFO]: SkimShady issued server command: /time set day
-[02:11:03] [Server thread/INFO]: SkimShady issued server command: //set 0
-[02:11:12] [Server thread/INFO]: SkimShady issued server command: //set 0
-[02:13:40] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:crimson_planks
-[02:14:27] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[02:17:52] [User Authenticator #8/INFO]: UUID of player MattGoesHAM is d8ad3fe0-e950-46fd-9505-1dc14f167c0d
-[02:17:52] [Server thread/INFO]: MattGoesHAM joined the game
-[02:17:52] [Server thread/INFO]: MattGoesHAM[/67.253.232.63:55979] logged in with entity id 1171 at ([world]-84.27190566673595, 82.5, -53.075428619055)
-[02:19:43] [Server thread/INFO]: SkimShady issued server command: /time set day
-[02:22:52] [Server thread/INFO]: SkimShady issued server command: //set 0
-[02:23:09] [Server thread/INFO]: SkimShady issued server command: //set 0
-[02:23:19] [Server thread/INFO]: SkimShady issued server command: //set 0
-[02:23:27] [Server thread/INFO]: SkimShady issued server command: //set 0
-[02:23:30] [Server thread/INFO]: SkimShady issued server command: //set 0
-[02:23:46] [Server thread/INFO]: SkimShady issued server command: //set 0
-[02:24:00] [Server thread/INFO]: SkimShady issued server command: //set 0
-[02:24:14] [Server thread/INFO]: SkimShady issued server command: //set 3
-[02:24:16] [Server thread/INFO]: SkimShady issued server command: //set 2
-[02:24:18] [Server thread/INFO]: SkimShady issued server command: //set 1
-[02:24:20] [Server thread/INFO]: SkimShady issued server command: //set 5
-[02:24:22] [Server thread/INFO]: SkimShady issued server command: //set 6
-[02:24:25] [Server thread/INFO]: SkimShady issued server command: //undo
-[02:24:27] [Server thread/INFO]: SkimShady issued server command: //set 7
-[02:24:29] [Server thread/INFO]: SkimShady issued server command: //set 3
-[02:24:31] [Server thread/INFO]: SkimShady issued server command: //set 4
-[02:24:32] [Server thread/INFO]: SkimShady issued server command: //set 5
-[02:24:34] [Server thread/INFO]: SkimShady issued server command: //undo
-[02:24:36] [Server thread/INFO]: SkimShady issued server command: //undo
-[02:24:37] [Server thread/INFO]: SkimShady issued server command: //undo
-[02:24:39] [Server thread/INFO]: SkimShady issued server command: //undo
-[02:24:40] [Server thread/INFO]: SkimShady issued server command: //undo
-[02:24:42] [Server thread/INFO]: SkimShady issued server command: //undo
-[02:24:44] [Server thread/INFO]: SkimShady issued server command: //undo
-[02:24:46] [Server thread/INFO]: SkimShady issued server command: //redo
-[02:24:49] [Server thread/INFO]: SkimShady issued server command: //set 2
-[02:24:50] [Server thread/INFO]: SkimShady issued server command: //set 4
-[02:24:52] [Server thread/INFO]: SkimShady issued server command: //set 5
-[02:24:54] [Server thread/INFO]: SkimShady issued server command: //set 6
-[02:24:56] [Server thread/INFO]: SkimShady issued server command: //set 6
-[02:24:58] [Server thread/INFO]: SkimShady issued server command: //set 4
-[02:25:00] [Server thread/INFO]: SkimShady issued server command: //set 3
-[02:25:02] [Server thread/INFO]: SkimShady issued server command: //set 2
-[02:25:04] [Server thread/INFO]: SkimShady issued server command: //set 4
-[02:25:05] [Server thread/INFO]: SkimShady issued server command: //set stone
-[02:26:43] [Server thread/INFO]: SamHarrisonZ issued server command: /teleport MattGoesHAM
-[02:27:00] [Server thread/INFO]: SamHarrisonZ issued server command: /teleport SkimShady
-[02:28:55] [Server thread/INFO]: SamHarrisonZ issued server command: /warp world_tower_bot
-[02:30:56] [Server thread/INFO]: SkimShady issued server command: /time set 0
-[02:30:59] [Server thread/INFO]: SkimShady issued server command: /weather sun
-[02:32:41] [Server thread/INFO]: SkimShady issued server command: //copy
-[02:32:44] [Server thread/INFO]: SkimShady issued server command: //paste
-[02:32:50] [Server thread/INFO]: SkimShady issued server command: //undo
-[02:38:25] [Server thread/INFO]: MattGoesHAM issued server command: /gm 0
-[02:40:04] [Server thread/INFO]: MattGoesHAM issued server command: /give MattGoesHAM minecraft:green_wool
-[02:40:05] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
-[02:40:14] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
-[02:40:23] [Server thread/INFO]: MattGoesHAM issued server command: /gm 1
-[02:40:52] [Server thread/INFO]: MattGoesHAM issued server command: /warp wet_city
-[02:40:52] [Server thread/WARN]: MattGoesHAM moved too quickly! 357.1076665006934,-49.801197592123,150.55858926788073
-[02:41:38] [Server thread/INFO]: SkimShady issued server command: /time set day
-[02:41:46] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
-[02:41:56] [Server thread/INFO]: MattGoesHAM issued server command: //wand
-[02:43:17] [Server thread/INFO]: MattGoesHAM issued server command: //set minecraft:glass
-[02:43:34] [Server thread/INFO]: MattGoesHAM issued server command: //undo
-[02:43:41] [Server thread/INFO]: MattGoesHAM issued server command: //walls minecraft:glass
-[02:43:57] [Server thread/INFO]: MattGoesHAM issued server command: //set glass
-[02:44:19] [Server thread/INFO]: MattGoesHAM issued server command: //set air
-[02:44:23] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:black_stained_glass_pane
-[02:44:38] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:black_stained_glass_pane
-[02:44:47] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:black_stained_glass_pane
-[02:44:54] [Server thread/INFO]: SkimShady issued server command: //set stone
-[02:45:12] [Server thread/INFO]: SkimShady issued server command: //undo
-[02:46:22] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:black_stained_glass_pane
-[02:46:41] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:black_stained_glass_pane
-[02:47:31] [Server thread/INFO]: SkimShady issued server command: //set 0
-[02:47:32] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:black_stained_glass_pane
-[02:47:55] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:black_stained_glass_pane
-[02:51:53] [Server thread/INFO]: MattGoesHAM issued server command: //cut
-[02:51:58] [Server thread/INFO]: MattGoesHAM issued server command: //paste
-[02:52:02] [Server thread/INFO]: SkimShady issued server command: /time set day
-[02:52:48] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:dark_oak_planks
-[02:52:56] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:dark_oak_planks
-[02:58:16] [Server thread/INFO]: MattGoesHAM issued server command: //cut
-[02:58:22] [Server thread/INFO]: MattGoesHAM issued server command: //paste
-[03:00:07] [Server thread/INFO]: MattGoesHAM issued server command: //cut
-[03:00:14] [Server thread/INFO]: MattGoesHAM issued server command: //paste
-[03:02:41] [Server thread/INFO]: SkimShady issued server command: /time set day
-[03:06:59] [Server thread/INFO]: MattGoesHAM issued server command: //cut
-[03:07:01] [Server thread/INFO]: MattGoesHAM issued server command: //paste
-[03:09:58] [Server thread/INFO]: MattGoesHAM issued server command: /jump
-[03:11:13] [Server thread/INFO]: MattGoesHAM issued server command: //set minecraft:glass
-[03:11:21] [Server thread/INFO]: MattGoesHAM issued server command: //undo
-[03:11:30] [Server thread/INFO]: MattGoesHAM issued server command: //set minecraft:glass
-[03:12:12] [Server thread/INFO]: MattGoesHAM issued server command: //set minecraft:glass
-[03:12:16] [Server thread/INFO]: MattGoesHAM issued server command: /back
-[03:12:35] [Async Chat Thread - #2/INFO]: <[admin]MattGoesHAM> pupu pepe
-[03:12:44] [Async Chat Thread - #2/INFO]: <[brother]SamHarrisonZ> poo
-[03:12:46] [Async Chat Thread - #2/INFO]: <[brother]SamHarrisonZ> poo
-[03:12:47] [Async Chat Thread - #2/INFO]: <[brother]SamHarrisonZ> pee
-[03:12:49] [Async Chat Thread - #2/INFO]: <[brother]SamHarrisonZ> pee
-[03:13:00] [Server thread/INFO]: SkimShady issued server command: /time set day
-[03:13:06] [Async Chat Thread - #2/INFO]: <[admin]MattGoesHAM> PoOPoOPeEpEe
-[03:13:24] [Async Chat Thread - #2/INFO]: <[brother]SkimShady> dude i'm tryin to figure out this elevator and its so hard vertical
-[03:13:44] [Async Chat Thread - #2/INFO]: <[brother]SamHarrisonZ> I'll show you a hard vertical :)
-[03:13:50] [Async Chat Thread - #2/INFO]: <[brother]SamHarrisonZ> ;)
-[03:13:52] [Server thread/INFO]: SkimShady issued server command: /tp sam
-[03:13:55] [Async Chat Thread - #2/INFO]: <[admin]MattGoesHAM> yeah bro, I was working on that on the other world lol
-[03:13:58] [Async Chat Thread - #2/INFO]: <[admin]MattGoesHAM> oo bb
-[03:14:26] [Server thread/INFO]: SkimShady issued server command: /
-[03:14:45] [Server thread/INFO]: SkimShady issued server command: /warp skimsh
-[03:14:48] [Server thread/INFO]: SkimShady issued server command: /warp skimshady
-[03:14:52] [Server thread/INFO]: SkimShady issued server command: /warp
-[03:16:34] [Server thread/INFO]: MattGoesHAM issued server command: //cut
-[03:17:09] [Server thread/INFO]: SkimShady issued server command: /survival sam
-[03:17:12] [Server thread/INFO]: SkimShady issued server command: /kill sam
-[03:17:12] [Server thread/INFO]: SamHarrisonZ died
-[03:17:19] [Server thread/INFO]: SamHarrisonZ issued server command: /back
-[03:17:27] [Server thread/INFO]: SamHarrisonZ issued server command: /gamemode creative
-[03:18:02] [Server thread/INFO]: SkimShady issued server command: //set 0
-[03:18:26] [Server thread/INFO]: MattGoesHAM issued server command: //paste
-[03:18:33] [Server thread/INFO]: MattGoesHAM issued server command: //undo
-[03:18:40] [Server thread/INFO]: MattGoesHAM issued server command: //rotate 90
-[03:18:42] [Server thread/INFO]: MattGoesHAM issued server command: //paste
-[03:19:00] [Server thread/INFO]: SamHarrisonZ issued server command: //set 0
-[03:19:21] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
-[03:19:32] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
-[03:19:42] [Server thread/INFO]: MattGoesHAM issued server command: /back
-[03:19:46] [Server thread/INFO]: MattGoesHAM issued server command: /back
-[03:19:52] [Server thread/INFO]: MattGoesHAM issued server command: /warp wet_city
-[03:19:52] [Server thread/WARN]: MattGoesHAM moved too quickly! -11.51187838762013,-9.23841509749441,27.688453247084336
-[03:22:59] [Server thread/INFO]: SkimShady issued server command: /time set 0
-[03:24:35] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:grass_block
-[03:25:08] [Server thread/INFO]: SamHarrisonZ issued server command: //set 0
-[03:26:00] [Server thread/INFO]: SamHarrisonZ issued server command: //set 0
-[03:26:05] [Server thread/INFO]: SkimShady issued server command: //set 0
-[03:26:20] [Server thread/INFO]: SamHarrisonZ issued server command: //set 0
-[03:27:21] [Server thread/INFO]: MattGoesHAM issued server command: /stopfire
-[03:28:03] [Server thread/INFO]: SamHarrisonZ issued server command: //set 0
-[03:28:24] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:grass_block
-[03:28:34] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:grass_block
-[03:28:44] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:grass_block
-[03:29:46] [Server thread/INFO]: SamHarrisonZ issued server command: //set 0
-[03:30:14] [Server thread/INFO]: SamHarrisonZ issued server command: //set 0
-[03:30:41] [Server thread/INFO]: SamHarrisonZ issued server command: //set 0
-[03:30:45] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:grass_block
-[03:33:43] [Server thread/INFO]: SkimShady issued server command: /time set 0
-[03:44:12] [Server thread/INFO]: SkimShady issued server command: /time set 0
-[03:45:53] [Server thread/INFO]: SamHarrisonZ issued server command: //set 0
-[03:46:34] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:grass_block
-[03:46:47] [Server thread/INFO]: MattGoesHAM issued server command: /killall mobs
-[03:54:44] [Server thread/INFO]: SkimShady issued server command: /time set 0
-[03:55:32] [Server thread/INFO]: SamHarrisonZ issued server command: //set 0
-[03:55:58] [Server thread/INFO]: SamHarrisonZ issued server command: //set 0
-[03:56:30] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:grass_block
-[04:04:10] [Server thread/INFO]: SamHarrisonZ issued server command: //set 0
-[04:04:32] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:sea_lantern
-[04:04:56] [Server thread/INFO]: SkimShady issued server command: /time set 0
-[04:05:24] [Server thread/INFO]: MattGoesHAM issued server command: /gamemode 0
-[04:05:35] [Server thread/INFO]: MattGoesHAM issued server command: /gm 1
-[04:05:36] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
-[04:05:53] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
-[04:09:53] [Server thread/INFO]: SkimShady issued server command: /tp sam
-[04:10:49] [Server thread/INFO]: SkimShady issued server command: /warp skimshady
-[04:12:44] [Server thread/INFO]: MattGoesHAM issued server command: /spawn
-[04:13:03] [Server thread/INFO]: MattGoesHAM issued server command: /warp spawn
-[04:14:07] [Server thread/INFO]: MattGoesHAM issued server command: /weather clear
-[04:15:53] [Server thread/INFO]: SkimShady issued server command: /time set 0
-[04:18:12] [Server thread/INFO]: MattGoesHAM issued server command: /warp wet_city
-[04:18:12] [Server thread/WARN]: MattGoesHAM moved too quickly! 378.2642677983904,-12.0,22.689857039901497
-[04:18:20] [Server thread/INFO]: SamHarrisonZ issued server command: /warp wet_city
-[04:19:55] [Server thread/INFO]: SamHarrisonZ issued server command: /warp base1
-[04:20:17] [Server thread/INFO]: MattGoesHAM issued server command: /warp base1
-[04:20:24] [Server thread/INFO]: SamHarrisonZ issued server command: /warp skimshady
-[04:20:45] [Server thread/INFO]: MattGoesHAM issued server command: /tp SkimShady MattGoesHAM
-[04:21:11] [Server thread/INFO]: SamHarrisonZ issued server command: /warp spawn
-[04:21:34] [Server thread/INFO]: MattGoesHAM lost connection: Disconnected
-[04:21:34] [Server thread/INFO]: MattGoesHAM left the game
-[04:21:48] [RCON Client /127.0.0.1 #2/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[03:06:36] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[03:06:37] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[03:06:37] [Worker-Main-5/INFO]: Loaded 7 recipes
+[03:06:39] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[03:06:39] [Server thread/INFO]: Loading properties
+[03:06:39] [Server thread/INFO]: This server is running Paper version git-Paper-288 (MC: 1.16.4) (Implementing API version 1.16.4-R0.1-SNAPSHOT)
+[03:06:39] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[03:06:39] [Server thread/INFO]: Using 4 threads for Netty based IO
+[03:06:39] [Server thread/INFO]: Debug logging is disabled
+[03:06:39] [Server thread/INFO]: Default game type: SURVIVAL
+[03:06:39] [Server thread/INFO]: Generating keypair
+[03:06:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:06:39] [Server thread/INFO]: Using epoll channel type
+[03:06:40] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[03:06:46] [Server thread/WARN]: Legacy plugin ArenaSpleef v1.5.1 does not specify an api-version.
+[03:06:46] [Server thread/INFO]: [ClearLag] Loading ClearLag v3.1.6
+[03:06:46] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.1.93
+[03:06:46] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.1.0;8e55131
+[03:06:47] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@53defef9]
+[03:06:47] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b131
+[03:06:47] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.3;5407315
+[03:06:47] [Server thread/INFO]: [HungerGames] Loading HungerGames v4.15.1
+[03:06:47] [Server thread/INFO]: [Essentials] Loading Essentials v2.18.1.0
+[03:06:47] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.18.0.0
+[03:06:47] [Server thread/INFO]: [BattleArena] Loading BattleArena v3.9.17.0
+[03:06:47] [Server thread/INFO]: [ArenaSpleef] Loading ArenaSpleef v1.5.1
+[03:06:47] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[03:06:47] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.1.93
+[03:06:47] [Server thread/INFO]:         __    
+[03:06:47] [Server thread/INFO]:   |    |__)   LuckPerms v5.1.93
+[03:06:47] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[03:06:47] [Server thread/INFO]: 
+[03:06:47] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[03:06:47] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[03:06:48] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[03:06:48] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[03:06:48] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1754ms)
+[03:06:48] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.1.0;8e55131
+[03:06:48] [Server thread/WARN]: [WorldEdit] Loaded class net.milkbowl.vault.permission.Permission from Vault v1.7.3-b131 which is not a depend, softdepend or loadbefore of this plugin.
+[03:06:48] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[03:06:49] [Server thread/WARN]: 
+**********************************************
+** This WorldEdit version does not fully support your version of Bukkit.
+**
+** When working with blocks or undoing, chests will be empty, signs
+** will be blank, and so on. There will be no support for entity
+** and block property-related functions.
+**
+** Please see https://worldedit.enginehub.org/en/latest/faq/#bukkit-adapters
+**********************************************
+
+[03:06:49] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[03:06:49] [Server thread/WARN]: [Vault] Loaded class com.earth2me.essentials.api.Economy from Essentials v2.18.1.0 which is not a depend, softdepend or loadbefore of this plugin.
+[03:06:49] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[03:06:49] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[03:06:49] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[03:06:49] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[03:06:49] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[03:06:49] [Server thread/INFO]: Preparing level "world"
+[03:06:49] [Server thread/INFO]: -------- World Settings For [world] --------
+[03:06:49] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[03:06:49] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[03:06:49] [Server thread/INFO]: Item Merge Radius: 2.5
+[03:06:49] [Server thread/INFO]: Item Despawn Rate: 6000
+[03:06:49] [Server thread/INFO]: View Distance: 10
+[03:06:49] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[03:06:49] [Server thread/INFO]: Cane Growth Modifier: 100%
+[03:06:49] [Server thread/INFO]: Melon Growth Modifier: 100%
+[03:06:49] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[03:06:49] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[03:06:49] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[03:06:49] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[03:06:49] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[03:06:49] [Server thread/INFO]: Potato Growth Modifier: 100%
+[03:06:49] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[03:06:49] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[03:06:49] [Server thread/INFO]: Vine Growth Modifier: 100%
+[03:06:49] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[03:06:49] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[03:06:49] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[03:06:49] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[03:06:49] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[03:06:49] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[03:06:49] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[03:06:49] [Server thread/INFO]: Max TNT Explosions: 100
+[03:06:49] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[03:06:49] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[03:06:49] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[03:06:49] [Server thread/INFO]: Mob Spawn Range: 8
+[03:06:49] [Server thread/INFO]: Experience Merge Radius: 3.0
+[03:06:49] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[03:06:49] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[03:06:50] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[03:06:50] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[03:06:50] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[03:06:50] [Server thread/INFO]: Item Merge Radius: 2.5
+[03:06:50] [Server thread/INFO]: Item Despawn Rate: 6000
+[03:06:50] [Server thread/INFO]: View Distance: 10
+[03:06:50] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[03:06:50] [Server thread/INFO]: Cane Growth Modifier: 100%
+[03:06:50] [Server thread/INFO]: Melon Growth Modifier: 100%
+[03:06:50] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[03:06:50] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[03:06:50] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[03:06:50] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[03:06:50] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[03:06:50] [Server thread/INFO]: Potato Growth Modifier: 100%
+[03:06:50] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[03:06:50] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[03:06:50] [Server thread/INFO]: Vine Growth Modifier: 100%
+[03:06:50] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[03:06:50] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[03:06:50] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[03:06:50] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[03:06:50] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[03:06:50] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[03:06:50] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[03:06:50] [Server thread/INFO]: Max TNT Explosions: 100
+[03:06:50] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[03:06:50] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[03:06:50] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[03:06:50] [Server thread/INFO]: Mob Spawn Range: 8
+[03:06:50] [Server thread/INFO]: Experience Merge Radius: 3.0
+[03:06:50] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[03:06:50] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[03:06:50] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[03:06:50] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[03:06:50] [Server thread/INFO]: Item Merge Radius: 2.5
+[03:06:50] [Server thread/INFO]: Item Despawn Rate: 6000
+[03:06:50] [Server thread/INFO]: View Distance: 10
+[03:06:50] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[03:06:50] [Server thread/INFO]: Cane Growth Modifier: 100%
+[03:06:50] [Server thread/INFO]: Melon Growth Modifier: 100%
+[03:06:50] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[03:06:50] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[03:06:50] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[03:06:50] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[03:06:50] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[03:06:50] [Server thread/INFO]: Potato Growth Modifier: 100%
+[03:06:50] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[03:06:50] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[03:06:50] [Server thread/INFO]: Vine Growth Modifier: 100%
+[03:06:50] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[03:06:50] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[03:06:50] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[03:06:50] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[03:06:50] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[03:06:50] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[03:06:50] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[03:06:50] [Server thread/INFO]: Max TNT Explosions: 100
+[03:06:50] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[03:06:50] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[03:06:50] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[03:06:50] [Server thread/INFO]: Mob Spawn Range: 8
+[03:06:50] [Server thread/INFO]: Experience Merge Radius: 3.0
+[03:06:50] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[03:06:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:06:50] [Server thread/INFO]: Loaded 0 spawn chunks for world world
+[03:06:50] [Server thread/INFO]: Preparing spawn area: 0%
+[03:06:50] [Server thread/INFO]: Preparing spawn area: 0%
+[03:06:51] [Server thread/INFO]: Preparing spawn area: 0%
+[03:06:51] [Server thread/INFO]: Time elapsed: 1129 ms
+[03:06:51] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[03:06:51] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
+[03:06:51] [Server thread/INFO]: Preparing spawn area: 0%
+[03:06:51] [Server thread/INFO]: Preparing spawn area: 31%
+[03:06:51] [Server thread/INFO]: Time elapsed: 728 ms
+[03:06:51] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[03:06:52] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
+[03:06:52] [Server thread/INFO]: Preparing spawn area: 0%
+[03:06:52] [Server thread/INFO]: Time elapsed: 349 ms
+[03:06:52] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.1.6
+[03:06:52] [Server thread/INFO]: [ClearLag] Loading modules...
+[03:06:52] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[03:06:52] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[03:06:52] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[03:06:52] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.3;5407315
+[03:06:52] [Thread-21/INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.16]...
+[03:06:52] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[03:06:52] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[03:06:52] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[03:06:52] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[03:06:52] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[03:06:52] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[03:06:52] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[03:06:52] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[03:06:52] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[03:06:52] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[03:06:52] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[03:06:52] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[03:06:52] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[03:06:52] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[03:06:52] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[03:06:52] [Server thread/INFO]: [WorldGuard] Loading region data...
+[03:06:53] [Server thread/INFO]: [HungerGames] Enabling HungerGames v4.15.1
+[03:06:53] [Server thread/INFO]: [HungerGames] config.yml loaded
+[03:06:53] [Server thread/INFO]: [HungerGames] Metrics have been enabled
+[03:06:53] [Server thread/INFO]: [HungerGames] [NBTAPI] Found Spigot: v1_16_R3! Trying to find NMS support
+[03:06:53] [Server thread/INFO]: [HungerGames] [NBTAPI] NMS support 'MC1_16_R3' loaded!
+[03:06:53] [Server thread/INFO]: [HungerGames] [NBTAPI] Found Gson: class com.google.gson.Gson
+[03:06:53] [Server thread/INFO]: [HungerGames] MythicMobs not found, MythicMobs hooks have been disabled
+[03:06:53] [Server thread/INFO]: [HungerGames] language.yml loaded
+[03:06:53] [Server thread/INFO]: [HungerGames] Loading kits...
+[03:06:53] [Server thread/INFO]: [HungerGames] Kits have been loaded!
+[03:06:53] [Server thread/INFO]: [HungerGames] Loading random items...
+[03:06:53] [Server thread/INFO]: [HungerGames] 69 Random items have been loaded!
+[03:06:53] [Server thread/INFO]: [HungerGames] 2 Random bonus items have been loaded!
+[03:06:53] [Server thread/INFO]: [HungerGames] Loading arenas...
+[03:06:53] [Server thread/INFO]: [HungerGames] No Arenas to load.
+[03:06:53] [Server thread/INFO]: [HungerGames] PAPI not found, Placeholders have been disabled
+[03:06:53] [Server thread/INFO]: [HungerGames] mcMMO not found, mcMMO event hooks have been disabled
+[03:06:53] [Server thread/INFO]: [HungerGames] HungerGames has been enabled in 0.17 seconds!
+[03:06:53] [Server thread/INFO]: [Essentials] Enabling Essentials v2.18.1.0
+[03:06:53] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[03:06:53] [Server thread/WARN]: [Essentials] Version mismatch! Please update EssentialsChat to the same version.
+[03:06:53] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[03:06:53] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[03:06:53] [Thread-21/WARN]: [ClearLag] Clearlag failed to check for updates - bukkit may be down
+[03:06:53] [Server thread/INFO]: [Essentials] Loaded 25599 items from items.json.
+[03:06:53] [Server thread/INFO]: [Essentials] Using locale en_US
+[03:06:53] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[03:06:53] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[03:06:53] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[03:06:53] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[03:06:53] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.18.0.0
+[03:06:53] [Server thread/WARN]: [EssentialsChat] Version mismatch! Please update all Essentials jars to the same version.
+[03:06:53] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[03:06:53] [Server thread/INFO]: [BattleArena] Enabling BattleArena v3.9.17.0
+[03:06:53] [Server thread/INFO]: [BattleArena] v3.9.17.0 enabling!
+[03:06:53] [Server thread/INFO]: [BattleArena] BattleTracker not detected, not tracking wins
+[03:06:53] [Server thread/INFO]: [BattleArena] CombatTagInterface is turned OFF
+[03:06:53] [Server thread/INFO]: [BattleArena] Essentials detected. God mode handling activated
+[03:06:53] [Server thread/INFO]: [BattleArena] Warning currency was empty, using name from config.yml
+[03:06:53] [Server thread/INFO]: [BattleArena] found economy plugin Vault. [Default]
+[03:06:54] [Server thread/WARN]: java.lang.ClassNotFoundException: mc.alk.arena.alib.battlebukkitlib.compat.v1_16_R3.InventoryHandler
+[03:06:54] [Server thread/WARN]: 	at java.net.URLClassLoader.findClass(URLClassLoader.java:382)
+[03:06:54] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:171)
+[03:06:54] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:100)
+[03:06:54] [Server thread/WARN]: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+[03:06:54] [Server thread/WARN]: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+[03:06:54] [Server thread/WARN]: 	at java.lang.Class.forName0(Native Method)
+[03:06:54] [Server thread/WARN]: 	at java.lang.Class.forName(Class.java:264)
+[03:06:54] [Server thread/WARN]: 	at mc.alk.arena.alib.battlebukkitlib.factory.HandlerFactory.getNewInstance(HandlerFactory.java:13)
+[03:06:54] [Server thread/WARN]: 	at mc.alk.arena.alib.battlebukkitlib.factory.InventoryHandlerFactory.getNewInstance(InventoryHandlerFactory.java:10)
+[03:06:54] [Server thread/WARN]: 	at mc.alk.arena.alib.battlebukkitlib.InventoryUtil.<clinit>(InventoryUtil.java:42)
+[03:06:54] [Server thread/WARN]: 	at mc.alk.arena.serializers.ConfigSerializer.getTransitionOptions(ConfigSerializer.java:544)
+[03:06:54] [Server thread/WARN]: 	at mc.alk.arena.serializers.BAConfigSerializer.parseOptionSets(BAConfigSerializer.java:283)
+[03:06:54] [Server thread/WARN]: 	at mc.alk.arena.serializers.BAConfigSerializer.loadDefaults(BAConfigSerializer.java:86)
+[03:06:54] [Server thread/WARN]: 	at mc.alk.arena.BattleArena.onEnable(BattleArena.java:218)
+[03:06:54] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263)
+[03:06:54] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:380)
+[03:06:54] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:483)
+[03:06:54] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.enablePlugin(CraftServer.java:501)
+[03:06:54] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.enablePlugins(CraftServer.java:415)
+[03:06:54] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.MinecraftServer.loadWorld(MinecraftServer.java:468)
+[03:06:54] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:239)
+[03:06:54] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:940)
+[03:06:54] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:177)
+[03:06:54] [Server thread/WARN]: 	at java.lang.Thread.run(Thread.java:748)
+[03:06:54] [Server thread/INFO]: [BattleArena] Modules (2) [Paintballs, Grenades]
+[03:06:54] [Server thread/INFO]: [BattleArena] registering classes: gladiator, archer, monk
+[03:06:54] [Server thread/INFO]: [BattleArena] v3.9.17.0 enabled!
+[03:06:54] [Server thread/INFO]: [ArenaSpleef] Enabling ArenaSpleef v1.5.1*
+[03:06:54] [Server thread/ERROR]: Error occurred while enabling ArenaSpleef v1.5.1 (Is it up to date?)
+java.lang.NoClassDefFoundError: mc/alk/arena/util/plugins/WorldGuardUtil
+	at mc.arena.spleef.ArenaSpleef.onEnable(ArenaSpleef.java:18) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263) ~[patched_1.16.4.jar:git-Paper-288]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:380) ~[patched_1.16.4.jar:git-Paper-288]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:483) ~[patched_1.16.4.jar:git-Paper-288]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.enablePlugin(CraftServer.java:501) ~[patched_1.16.4.jar:git-Paper-288]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.enablePlugins(CraftServer.java:415) ~[patched_1.16.4.jar:git-Paper-288]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.loadWorld(MinecraftServer.java:468) ~[patched_1.16.4.jar:git-Paper-288]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:239) ~[patched_1.16.4.jar:git-Paper-288]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:940) ~[patched_1.16.4.jar:git-Paper-288]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:177) ~[patched_1.16.4.jar:git-Paper-288]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_212]
+Caused by: java.lang.ClassNotFoundException: mc.alk.arena.util.plugins.WorldGuardUtil
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:382) ~[?:1.8.0_212]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:171) ~[patched_1.16.4.jar:git-Paper-288]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:100) ~[patched_1.16.4.jar:git-Paper-288]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[?:1.8.0_212]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[?:1.8.0_212]
+	... 11 more
+[03:06:54] [Server thread/INFO]: [ArenaSpleef] Disabling ArenaSpleef v1.5.1
+[03:06:54] [Server thread/INFO]: [ArenaSpleef] v1.5.1 stopping!
+[03:06:54] [Server thread/INFO]: Starting remote control listener
+[03:06:54] [Server thread/INFO]: Thread RCON Listener started
+[03:06:54] [Server thread/INFO]: RCON running on 0.0.0.0:25575
+[03:06:54] [Server thread/INFO]: Running delayed init tasks
+[03:06:54] [Craft Scheduler Thread - 0/INFO]: [Vault] Checking for Updates ... 
+[03:06:54] [Server thread/INFO]: [BattleArena] Now registering command duel dynamically with Bukkit commandMap.
+[03:06:54] [Server thread/INFO]: Done (15.015s)! For help, type "help"
+[03:06:54] [Server thread/INFO]: Timings Reset
+[03:06:54] [ForkJoinPool.commonPool-worker-1/INFO]: [BattleArena] Running BattleArena v3.9.17.0.
+[03:06:54] [ForkJoinPool.commonPool-worker-1/INFO]: [BattleArena] You are currently running a version slightly ahead from release (development build?)
+[03:06:54] [Craft Scheduler Thread - 0/INFO]: [Vault] No new version available
+[03:06:55] [User Authenticator #1/INFO]: UUID of player MattGoesHAM is d8ad3fe0-e950-46fd-9505-1dc14f167c0d
+[03:06:55] [Server thread/INFO]: MattGoesHAM joined the game
+[03:06:55] [Server thread/INFO]: MattGoesHAM[/67.253.232.63:64348] logged in with entity id 45 at ([world]-74.64655334106432, 219.78267207174437, -875.8296080597752)
+[03:06:57] [User Authenticator #1/INFO]: UUID of player SamHarrisonZ is 20e6092f-fcf2-43b2-889e-cea009a08f57
+[03:06:57] [Server thread/INFO]: SamHarrisonZ joined the game
+[03:06:59] [Server thread/INFO]: SamHarrisonZ[/98.225.134.191:50957] logged in with entity id 159 at ([world]-143.97877211824772, 178.00192018139018, -840.9902542729939)
+[03:07:58] [Server thread/INFO]: MattGoesHAM issued server command: //replace minecraft:dirt minecraft:grass_block
+[03:10:42] [User Authenticator #2/INFO]: UUID of player Gogetenks8 is 956e1ea7-1f9e-4459-892a-fe564685c2ac
+[03:10:42] [Server thread/INFO]: Gogetenks8 joined the game
+[03:10:43] [Server thread/INFO]: Gogetenks8[/141.195.4.17:60855] logged in with entity id 575 at ([world]24.89872970781206, 228.5258420933992, -773.2337197608734)
+[03:19:32] [Server thread/INFO]: SamHarrisonZ issued server command: //set 0
+[03:21:15] [Server thread/INFO]: Gogetenks8 issued server command: //hsphere minecraft:cyan_stained_glass 20
+[03:21:19] [Server thread/INFO]: MattGoesHAM issued server command: /time set 0
+[03:21:25] [Async Chat Thread - #0/INFO]: <[brother]SamHarrisonZ> can you guys here me
+[03:21:28] [Async Chat Thread - #0/INFO]: <[admin]MattGoesHAM> no
+[03:21:28] [Server thread/INFO]: SamHarrisonZ issued server command: /top
+[03:21:28] [Server thread/WARN]: java.lang.ClassNotFoundException: mc.alk.arena.alib.battlebukkitlib.compat.v1_16_R3.PlayerHandler
+[03:21:28] [Server thread/WARN]: 	at java.net.URLClassLoader.findClass(URLClassLoader.java:382)
+[03:21:28] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:171)
+[03:21:28] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:100)
+[03:21:28] [Server thread/WARN]: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+[03:21:28] [Server thread/WARN]: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+[03:21:28] [Server thread/WARN]: 	at java.lang.Class.forName0(Native Method)
+[03:21:28] [Server thread/WARN]: 	at java.lang.Class.forName(Class.java:264)
+[03:21:28] [Server thread/WARN]: 	at mc.alk.arena.alib.battlebukkitlib.factory.HandlerFactory.getNewInstance(HandlerFactory.java:13)
+[03:21:28] [Server thread/WARN]: 	at mc.alk.arena.alib.battlebukkitlib.factory.PlayerHandlerFactory.getNewInstance(PlayerHandlerFactory.java:10)
+[03:21:28] [Server thread/WARN]: 	at mc.alk.arena.alib.battlebukkitlib.PlayerUtil.<clinit>(PlayerUtil.java:12)
+[03:21:28] [Server thread/WARN]: 	at mc.alk.arena.util.PlayerUtil.getID(PlayerUtil.java:134)
+[03:21:28] [Server thread/WARN]: 	at mc.alk.arena.controllers.TeleportController.onPlayerTeleport(TeleportController.java:136)
+[03:21:28] [Server thread/WARN]: 	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor222.execute(Unknown Source)
+[03:21:28] [Server thread/WARN]: 	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:69)
+[03:21:28] [Server thread/WARN]: 	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80)
+[03:21:28] [Server thread/WARN]: 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[03:21:28] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:607)
+[03:21:28] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.entity.CraftPlayer.teleport(CraftPlayer.java:803)
+[03:21:28] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.entity.CraftEntity.lambda$teleportAsync$1(CraftEntity.java:520)
+[03:21:28] [Server thread/WARN]: 	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:656)
+[03:21:28] [Server thread/WARN]: 	at java.util.concurrent.CompletableFuture.uniAcceptStage(CompletableFuture.java:669)
+[03:21:28] [Server thread/WARN]: 	at java.util.concurrent.CompletableFuture.thenAccept(CompletableFuture.java:1997)
+[03:21:28] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.entity.CraftEntity.teleportAsync(CraftEntity.java:520)
+[03:21:28] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.entity.CraftPlayer.teleportAsync(CraftPlayer.java:773)
+[03:21:28] [Server thread/WARN]: 	at com.earth2me.essentials.paperlib.features.asyncteleport.AsyncTeleportPaper_13.teleportAsync(AsyncTeleportPaper_13.java:13)
+[03:21:28] [Server thread/WARN]: 	at com.earth2me.essentials.paperlib.environments.Environment.teleport(Environment.java:92)
+[03:21:28] [Server thread/WARN]: 	at com.earth2me.essentials.paperlib.PaperLib.teleportAsync(PaperLib.java:87)
+[03:21:28] [Server thread/WARN]: 	at com.earth2me.essentials.AsyncTeleport.lambda$nowAsync$3(AsyncTeleport.java:216)
+[03:21:28] [Server thread/WARN]: 	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:656)
+[03:21:28] [Server thread/WARN]: 	at java.util.concurrent.CompletableFuture.uniAcceptStage(CompletableFuture.java:669)
+[03:21:28] [Server thread/WARN]: 	at java.util.concurrent.CompletableFuture.thenAccept(CompletableFuture.java:1997)
+[03:21:28] [Server thread/WARN]: 	at com.earth2me.essentials.AsyncTeleport.nowAsync(AsyncTeleport.java:187)
+[03:21:28] [Server thread/WARN]: 	at com.earth2me.essentials.AsyncTeleport.teleport(AsyncTeleport.java:283)
+[03:21:28] [Server thread/WARN]: 	at com.earth2me.essentials.AsyncTeleport.teleport(AsyncTeleport.java:225)
+[03:21:28] [Server thread/WARN]: 	at com.earth2me.essentials.commands.Commandtop.run(Commandtop.java:33)
+[03:21:28] [Server thread/WARN]: 	at com.earth2me.essentials.commands.EssentialsCommand.run(EssentialsCommand.java:166)
+[03:21:28] [Server thread/WARN]: 	at com.earth2me.essentials.Essentials.onCommandEssentials(Essentials.java:613)
+[03:21:28] [Server thread/WARN]: 	at com.earth2me.essentials.Essentials.onCommand(Essentials.java:523)
+[03:21:28] [Server thread/WARN]: 	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45)
+[03:21:28] [Server thread/WARN]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159)
+[03:21:28] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.dispatchCommand(CraftServer.java:802)
+[03:21:28] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.PlayerConnection.handleCommand(PlayerConnection.java:2008)
+[03:21:28] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.PlayerConnection.c(PlayerConnection.java:1819)
+[03:21:28] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.PlayerConnection.a(PlayerConnection.java:1772)
+[03:21:28] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.PacketPlayInChat.a(PacketPlayInChat.java:47)
+[03:21:28] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.PacketPlayInChat.a(PacketPlayInChat.java:5)
+[03:21:28] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.PlayerConnectionUtils.lambda$ensureMainThread$1(PlayerConnectionUtils.java:23)
+[03:21:28] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.TickTask.run(SourceFile:18)
+[03:21:28] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeTask(IAsyncTaskHandler.java:136)
+[03:21:28] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23)
+[03:21:28] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeNext(IAsyncTaskHandler.java:109)
+[03:21:28] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.MinecraftServer.bb(MinecraftServer.java:1136)
+[03:21:28] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.MinecraftServer.executeNext(MinecraftServer.java:1129)
+[03:21:28] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.awaitTasks(IAsyncTaskHandler.java:119)
+[03:21:28] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.MinecraftServer.sleepForTick(MinecraftServer.java:1090)
+[03:21:28] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1004)
+[03:21:28] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:177)
+[03:21:28] [Server thread/WARN]: 	at java.lang.Thread.run(Thread.java:748)
+[03:21:38] [Async Chat Thread - #0/INFO]: <[brother]SamHarrisonZ> the green light is coming on
+[03:21:44] [Async Chat Thread - #0/INFO]: <[brother]SamHarrisonZ> I can't here you either
+[03:24:20] [Server thread/INFO]: MattGoesHAM issued server command: /weather clear
+[03:24:34] [Server thread/INFO]: MattGoesHAM issued server command: //set 0
+[03:24:52] [Server thread/INFO]: Gogetenks8 issued server command: //hsphere minecraft:cyan
+[03:25:19] [Server thread/INFO]: Gogetenks8 issued server command: //hsphere minecraft:cyan_stained_glass 10
+[03:25:49] [Server thread/INFO]: MattGoesHAM issued server command: //set 0
+[03:25:54] [Server thread/INFO]: Gogetenks8 issued server command: /undo
+[03:26:54] [Server thread/INFO]: Gogetenks8 issued server command: //hsphere minecraft:cyan_stained_glass 12
+[03:31:56] [Server thread/INFO]: MattGoesHAM issued server command: /time set 0
+[03:41:01] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
+[03:42:25] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
+[03:42:27] [Server thread/INFO]: MattGoesHAM issued server command: /time set 0
+[03:42:30] [Server thread/INFO]: SamHarrisonZ issued server command: //undo
+[03:42:36] [Server thread/INFO]: MattGoesHAM issued server command: /tp Gogetenks8
+[03:42:46] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
+[03:43:04] [Server thread/INFO]: MattGoesHAM issued server command: /tp SamHarrisonZ
+[03:43:07] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
+[03:43:27] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
+[03:43:52] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
+[03:44:32] [Server thread/INFO]: MattGoesHAM issued server command: /tree jungle
+[03:44:32] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:sand
+[03:44:38] [Server thread/INFO]: MattGoesHAM issued server command: /tool tree jungle
+[03:44:43] [Server thread/INFO]: MattGoesHAM issued server command: /tool tree jungle
+[03:44:57] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:sand
+[03:44:59] [Server thread/INFO]: MattGoesHAM issued server command: //undo
+[03:45:14] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:sand
+[03:45:41] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:sand
+[03:46:11] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:sand
+[03:49:52] [Server thread/INFO]: MattGoesHAM issued server command: /tp SamHarrisonZ
+[03:51:28] [Server thread/INFO]: MattGoesHAM issued server command: //wand
+[03:51:51] [Server thread/INFO]: MattGoesHAM issued server command: //set minecraft:jungle_w
+[03:51:56] [Server thread/INFO]: MattGoesHAM issued server command: //set minecraft:jungle_wood
+[03:53:00] [Server thread/INFO]: MattGoesHAM issued server command: /time set 0
+[03:55:03] [Server thread/INFO]: MattGoesHAM issued server command: /tool tree jungle
+[03:55:18] [Server thread/INFO]: MattGoesHAM issued server command: //wand
+[03:59:02] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:cut_sandstone
+[03:59:08] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:cut_sandstone
+[03:59:16] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:cut_sandstone
+[03:59:22] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:cut_sandstone
+[03:59:27] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:cut_sandstone
+[03:59:33] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:cut_sandstone
+[03:59:41] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:cut_sandstone
+[03:59:46] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:cut_sandstone
+[03:59:52] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:cut_sandstone
+[03:59:56] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:cut_sandstone
+[04:01:57] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:cut_sandstone
+[04:02:02] [Server thread/INFO]: SamHarrisonZ issued server command: //undo
+[04:02:09] [Server thread/INFO]: SamHarrisonZ issued server command: //undo
+[04:02:15] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:cut_sandstone
+[04:03:04] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:cut_sandstone
+[04:03:06] [Server thread/INFO]: MattGoesHAM issued server command: /time set 0
+[04:06:39] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:oak_planks
+[04:06:46] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:oak_planks
+[04:06:53] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:oak_planks
+[04:07:03] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:oak_planks
+[04:07:12] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:oak_planks
+[04:07:22] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:oak_planks
+[04:07:38] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:oak_planks
+[04:08:13] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:oak_planks
+[04:09:41] [Server thread/INFO]: Gogetenks8 lost connection: Disconnected
+[04:09:41] [Server thread/INFO]: Gogetenks8 left the game
+[04:15:07] [Server thread/INFO]: MattGoesHAM issued server command: /time set 0
+[04:20:57] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
+[04:21:11] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
+[04:21:50] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:redstone_block
+[04:22:41] [Server thread/INFO]: MattGoesHAM lost connection: Disconnected
+[04:22:41] [Server thread/INFO]: MattGoesHAM left the game
+[04:25:48] [Server thread/INFO]: SamHarrisonZ issued server command: /time day
+[04:36:20] [Server thread/INFO]: SamHarrisonZ issued server command: /time day
+[04:38:12] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
+[04:38:34] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:redstone_block
+[04:40:14] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
+[04:40:34] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
+[04:40:45] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:redstone_block
+[04:41:15] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:redstone_block
+[04:41:19] [Server thread/INFO]: SamHarrisonZ issued server command: //undo
+[04:41:25] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:redstone_block
+[04:41:45] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
+[04:41:51] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
+[04:42:01] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:redstone_block
+[04:46:39] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
+[04:46:50] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
+[04:47:00] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:redstone_block
+[04:48:05] [Server thread/INFO]: SamHarrisonZ issued server command: /time day
+[04:58:43] [Server thread/INFO]: SamHarrisonZ issued server command: /time day
+[05:00:26] [Server thread/INFO]: SamHarrisonZ issued server command: /setwarp skylands
+[05:03:44] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:quartz_bricks
+[05:11:35] [Server thread/INFO]: SamHarrisonZ issued server command: /warp spawn
+[05:11:46] [Server thread/INFO]: SamHarrisonZ issued server command: /time day
+[05:11:58] [Server thread/INFO]: SamHarrisonZ issued server command: /warp skylands
+[05:22:58] [Server thread/INFO]: SamHarrisonZ issued server command: /time day
+[05:30:36] [Server thread/INFO]: SamHarrisonZ lost connection: Disconnected
+[05:30:36] [Server thread/INFO]: SamHarrisonZ left the game
+[09:06:54] [Craft Scheduler Thread - 9/INFO]: [Vault] Checking for Updates ... 
+[09:06:54] [Craft Scheduler Thread - 9/INFO]: [Vault] No new version available
+[15:06:54] [Craft Scheduler Thread - 10/INFO]: [Vault] Checking for Updates ... 
+[15:06:54] [Craft Scheduler Thread - 10/INFO]: [Vault] No new version available
+[18:39:14] [User Authenticator #3/INFO]: UUID of player SamHarrisonZ is 20e6092f-fcf2-43b2-889e-cea009a08f57
+[18:39:14] [Server thread/INFO]: SamHarrisonZ joined the game
+[18:39:14] [Server thread/INFO]: SamHarrisonZ[/98.225.134.191:55031] logged in with entity id 2583 at ([world]-87.18934808417053, 172.0, -767.3213934305173)
+[18:46:45] [User Authenticator #4/INFO]: UUID of player MattGoesHAM is d8ad3fe0-e950-46fd-9505-1dc14f167c0d
+[18:46:45] [Server thread/INFO]: MattGoesHAM joined the game
+[18:46:45] [Server thread/INFO]: MattGoesHAM[/67.253.232.63:64613] logged in with entity id 2989 at ([world]-35.74130084080578, 222.5545843538442, -997.0571248279339)
+[18:46:49] [Async Chat Thread - #1/INFO]: <[admin]MattGoesHAM> HI
+[18:46:53] [Async Chat Thread - #1/INFO]: <[brother]SamHarrisonZ> HI
+[18:46:59] [Server thread/INFO]: MattGoesHAM issued server command: /tp SamHarrisonZ
+[18:47:07] [Server thread/INFO]: MattGoesHAM issued server command: /tp SamHarrisonZ
+[18:47:16] [Server thread/INFO]: MattGoesHAM issued server command: /warps
+[18:51:58] [Server thread/INFO]: MattGoesHAM issued server command: /tp SamHarrisonZ
+[18:52:03] [Server thread/INFO]: SamHarrisonZ issued server command: //sphere 0 5
+[18:52:11] [Server thread/INFO]: SamHarrisonZ issued server command: //sphere 0 5
+[18:52:16] [Server thread/INFO]: SamHarrisonZ issued server command: //sphere 0 5
+[18:52:22] [Server thread/INFO]: SamHarrisonZ issued server command: //sphere 0 5
+[18:52:29] [Server thread/INFO]: SamHarrisonZ issued server command: //sphere 0 5
+[18:52:38] [Server thread/INFO]: SamHarrisonZ issued server command: //sphere 0 5
+[18:52:47] [Server thread/INFO]: SamHarrisonZ issued server command: //sphere 0 5
+[18:53:12] [Server thread/INFO]: SamHarrisonZ issued server command: //sphere 0 5
+[18:53:19] [Server thread/INFO]: SamHarrisonZ issued server command: //sphere 0 5
+[18:53:27] [Server thread/INFO]: SamHarrisonZ issued server command: //sphere 0 5
+[18:53:34] [Server thread/INFO]: SamHarrisonZ issued server command: //sphere 0 5
+[18:53:46] [Server thread/INFO]: MattGoesHAM issued server command: /time set 0
+[18:53:46] [Server thread/INFO]: SamHarrisonZ issued server command: //sphere 0 5
+[18:53:53] [Server thread/INFO]: SamHarrisonZ issued server command: //sphere 0 5
+[18:54:03] [Server thread/INFO]: SamHarrisonZ issued server command: //sphere 0 5
+[18:54:11] [Server thread/INFO]: SamHarrisonZ issued server command: //sphere 0 5
+[18:54:22] [Server thread/INFO]: SamHarrisonZ issued server command: //sphere 0 5
+[18:54:28] [Server thread/INFO]: SamHarrisonZ issued server command: //sphere 0 5
+[18:54:42] [Server thread/INFO]: SamHarrisonZ issued server command: //sphere 0 5
+[18:54:51] [Server thread/INFO]: SamHarrisonZ issued server command: //sphere 0 5
+[18:54:59] [Server thread/INFO]: SamHarrisonZ issued server command: //sphere 0 5
+[18:55:25] [Server thread/INFO]: SamHarrisonZ issued server command: //sphere 0 5
+[18:55:27] [Server thread/INFO]: SamHarrisonZ issued server command: //sphere 0 5
+[18:55:38] [Server thread/INFO]: SamHarrisonZ issued server command: //sphere 0 5
+[18:55:50] [Server thread/INFO]: SamHarrisonZ issued server command: //sphere 0 5
+[18:56:04] [Server thread/INFO]: SamHarrisonZ issued server command: //sphere 0 5
+[18:56:17] [Server thread/INFO]: SamHarrisonZ issued server command: //sphere 0 5
+[18:56:23] [Server thread/INFO]: SamHarrisonZ issued server command: //sphere 0 5
+[18:56:29] [Server thread/INFO]: SamHarrisonZ issued server command: //sphere 0 5
+[18:56:51] [Server thread/INFO]: SamHarrisonZ issued server command: //sphere 0 5
+[18:56:55] [Server thread/INFO]: SamHarrisonZ issued server command: //sphere 0 5
+[18:57:02] [Server thread/INFO]: SamHarrisonZ issued server command: //sphere 0 5
+[18:57:11] [Server thread/INFO]: SamHarrisonZ issued server command: //sphere 0 5
+[18:57:24] [Server thread/INFO]: SamHarrisonZ issued server command: //sphere 0 5
+[18:57:31] [Server thread/INFO]: SamHarrisonZ issued server command: //sphere 0 5
+[18:57:34] [Server thread/INFO]: SamHarrisonZ issued server command: //sphere 0 5
+[18:57:49] [Server thread/INFO]: SamHarrisonZ issued server command: //sphere 0 5
+[18:58:33] [Server thread/INFO]: SamHarrisonZ issued server command: //sphere 0 5
+[18:58:41] [Server thread/INFO]: SamHarrisonZ issued server command: //sphere 0 5
+[18:58:45] [Server thread/INFO]: SamHarrisonZ issued server command: //sphere 0 5
+[18:58:50] [Server thread/INFO]: SamHarrisonZ issued server command: //sphere 0 5
+[18:58:54] [Server thread/INFO]: SamHarrisonZ issued server command: //sphere 0 5
+[18:59:01] [Server thread/INFO]: SamHarrisonZ issued server command: //sphere 0 5
+[18:59:16] [Server thread/INFO]: SamHarrisonZ issued server command: //sphere 0 5
+[18:59:25] [Server thread/INFO]: SamHarrisonZ issued server command: //sphere 0 5
+[18:59:33] [Server thread/INFO]: SamHarrisonZ issued server command: //sphere 0 5
+[18:59:38] [Server thread/INFO]: SamHarrisonZ issued server command: //sphere 0 5
+[18:59:52] [Server thread/INFO]: SamHarrisonZ issued server command: //sphere 0 5
+[19:00:43] [Server thread/INFO]: SamHarrisonZ issued server command: //replace 0 minecraft:water
+[19:03:46] [Server thread/INFO]: SamHarrisonZ issued server command: //replace 0 minecraft:water
+[19:04:04] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:packed_ice
+[19:04:21] [Server thread/INFO]: MattGoesHAM issued server command: //sphere minecraft:ice 4
+[19:04:28] [Server thread/INFO]: MattGoesHAM issued server command: /tp SamHarrisonZ
+[19:04:28] [Server thread/WARN]: MattGoesHAM moved too quickly! 21.377822427271525,-12.39606806147566,-41.80000001192093
+[19:04:34] [Server thread/INFO]: SamHarrisonZ issued server command: //sphere 0 5
+[19:04:36] [Server thread/INFO]: MattGoesHAM issued server command: /time set 0
+[19:05:47] [Server thread/INFO]: MattGoesHAM issued server command: //set 0
+[19:05:54] [Server thread/INFO]: MattGoesHAM issued server command: //undo
+[19:06:02] [Server thread/INFO]: SamHarrisonZ issued server command: //replace 0 minecraft:water
+[19:06:10] [Server thread/INFO]: MattGoesHAM issued server command: //redo
+[19:06:44] [Server thread/INFO]: SamHarrisonZ issued server command: //replace minecraft:water 0
+[19:07:13] [Server thread/INFO]: SamHarrisonZ issued server command: //replace minecraft:water 0
+[19:08:00] [Server thread/INFO]: SamHarrisonZ issued server command: //replace minecraft:water 0
+[19:10:16] [Server thread/INFO]: SamHarrisonZ issued server command: //sphere minecraft:blue_ice 7
+[19:10:50] [Server thread/INFO]: SamHarrisonZ issued server command: //undo
+[19:11:06] [Server thread/INFO]: SamHarrisonZ issued server command: //hsphere minecraft:packed_ice 7
+[19:11:20] [Server thread/INFO]: SamHarrisonZ issued server command: //undo
+[19:11:36] [Server thread/INFO]: SamHarrisonZ issued server command: //hsphere minecraft:packed_ice 7
+[19:11:40] [Server thread/INFO]: SamHarrisonZ issued server command: //undo
+[19:11:44] [Server thread/INFO]: SamHarrisonZ issued server command: //hsphere minecraft:packed_ice 7
+[19:12:45] [Server thread/INFO]: SamHarrisonZ issued server command: //set 0
+[19:12:46] [Server thread/INFO]: MattGoesHAM issued server command: //replace minecraft:glass
+[19:13:07] [Server thread/INFO]: SamHarrisonZ issued server command: //replace 0 minecraft:water
+[19:13:15] [Server thread/INFO]: SamHarrisonZ issued server command: //replace 0 minecraft:water
+[19:13:21] [Server thread/INFO]: SamHarrisonZ issued server command: //replace 0 minecraft:water
+[19:13:28] [Server thread/INFO]: SamHarrisonZ issued server command: //replace 0 minecraft:water
+[19:15:27] [Server thread/INFO]: SamHarrisonZ issued server command: /time day
+[19:17:54] [Server thread/INFO]: SamHarrisonZ issued server command: //hsphere minecraft:netherrack_
+[19:18:12] [Server thread/INFO]: SamHarrisonZ issued server command: //hsphere minecraft:netherrack 12
+[19:19:03] [Server thread/INFO]: SamHarrisonZ issued server command: //set 0
+[19:21:08] [Server thread/INFO]: SamHarrisonZ issued server command: //generate nether_fortress
+[19:26:14] [Server thread/INFO]: MattGoesHAM issued server command: /time set
+[19:26:19] [Server thread/INFO]: MattGoesHAM issued server command: /time set 0
+[19:32:13] [Server thread/INFO]: MattGoesHAM issued server command: /tp SamHarrisonZ
+[19:33:48] [Server thread/INFO]: MattGoesHAM issued server command: //copy
+[19:33:55] [Server thread/INFO]: MattGoesHAM issued server command: //paste
+[19:33:59] [Server thread/INFO]: MattGoesHAM issued server command: //paste
+[19:34:07] [Server thread/INFO]: MattGoesHAM issued server command: //pase
+[19:34:10] [Server thread/INFO]: MattGoesHAM issued server command: //paste
+[19:34:21] [Server thread/INFO]: MattGoesHAM issued server command: //paste
+[19:34:23] [Server thread/INFO]: MattGoesHAM issued server command: //undo
+[19:34:26] [Server thread/INFO]: MattGoesHAM issued server command: //paste
+[19:35:25] [Server thread/INFO]: MattGoesHAM issued server command: //copy
+[19:35:41] [Server thread/INFO]: MattGoesHAM issued server command: //paste
+[19:36:47] [Server thread/INFO]: MattGoesHAM issued server command: //undo
+[19:36:50] [Server thread/INFO]: MattGoesHAM issued server command: //redo
+[19:37:04] [Server thread/INFO]: MattGoesHAM issued server command: /time set 0
+[19:41:38] [Server thread/INFO]: SamHarrisonZ issued server command: //sphere minecraft:grass_block 10
+[19:42:38] [Server thread/INFO]: SamHarrisonZ issued server command: //set 0
+[19:43:14] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:scaffolding
+[19:46:04] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:snow
+[19:46:13] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:snow
+[19:47:36] [Server thread/INFO]: MattGoesHAM issued server command: /time set 0
+[19:50:09] [Server thread/INFO]: SamHarrisonZ has made the advancement [Ol' Betsy]
+[19:50:52] [Server thread/INFO]: SamHarrisonZ issued server command: /tp MattGoesHAM
+[19:52:15] [Server thread/INFO]: SamHarrisonZ issued server command: //sphere minecraft:grass_block 20
+[19:54:33] [Server thread/INFO]: SamHarrisonZ issued server command: //set 0
+[19:58:08] [Server thread/INFO]: MattGoesHAM issued server command: /time set 0
+[19:59:01] [Server thread/INFO]: SamHarrisonZ issued server command: //hsphere minecraft:glass
+[19:59:14] [Server thread/INFO]: SamHarrisonZ issued server command: //hsphere minecraft:glass 5
+[20:00:58] [Server thread/INFO]: SamHarrisonZ issued server command: /top
+[20:06:43] [Server thread/INFO]: SamHarrisonZ issued server command: //hsphere minecraft:glass 8
+[20:06:53] [Server thread/INFO]: SamHarrisonZ issued server command: /top
+[20:08:02] [Server thread/INFO]: SamHarrisonZ issued server command: //hcyl minecraft:glass 5 15
+[20:08:31] [Server thread/INFO]: MattGoesHAM issued server command: /time set 0
+[20:10:16] [Server thread/INFO]: MattGoesHAM issued server command: /weather sun
+[20:10:28] [Server thread/INFO]: SamHarrisonZ issued server command: //hsphere minecraft:glass 8
+[20:10:44] [Server thread/INFO]: SamHarrisonZ issued server command: /top
+[20:15:11] [Server thread/INFO]: MattGoesHAM issued server command: /tp SamHarrisonZ
+[20:21:51] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:diamond_block
+[20:22:36] [Server thread/INFO]: SamHarrisonZ issued server command: //set minecraft:diamond_block
+[20:30:40] [Server thread/INFO]: MattGoesHAM issued server command: /tp SamHarrisonZ
+[20:31:01] [Server thread/INFO]: MattGoesHAM issued server command: /gm 0 SamHarrisonZ
+[20:31:03] [Server thread/INFO]: SamHarrisonZ fell from a high place
+[20:31:18] [Server thread/INFO]: SamHarrisonZ issued server command: /gamemode creative
+[20:31:21] [Server thread/INFO]: SamHarrisonZ issued server command: /back
+[20:31:40] [Server thread/INFO]: MattGoesHAM issued server command: /tp SamHarrisonZ
+[20:31:40] [Server thread/WARN]: MattGoesHAM moved too quickly! -12.94644924034823,-5.418846841570371,16.024976261470556
+[20:32:39] [Server thread/INFO]: MattGoesHAM issued server command: /tp SamHarrisonZ
