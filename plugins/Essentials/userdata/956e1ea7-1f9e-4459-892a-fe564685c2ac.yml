@@ -1,21 +1,22 @@
 lastAccountName: Gogetenks8
 timestamps:
-  login: 1606014643039
-  lastteleport: 1606010237546
-  logout: 1606018181388
+  login: 1606509384747
+  lastteleport: 1606514426259
+  logout: 1606514606803
 ipAddress: 141.195.4.17
 lastlocation:
   world: world
-  x: 24.89872970781206
-  y: 228.5258420933992
-  z: -773.2337197608734
-  yaw: 268.56995
-  pitch: 26.849506
+  x: -71.0
+  y: 84.0
+  z: -146.0
+  yaw: 161.02899
+  pitch: 0.0
 afk: false
 logoutlocation:
   world: world
-  x: 1.989743800244761
-  y: 221.0
-  z: -743.5520235488312
-  yaw: -282.48938
-  pitch: -26.700031
+  x: -72.16339596658254
+  y: 84.0
+  z: -138.9670391284169
+  yaw: -147.60019
+  pitch: 21.299984
+money: '500.0'

@@ -1,20 +1,21 @@
 lastAccountName: THREELEGEDDOG11
 timestamps:
-  login: 1604798934918
-  logout: 1604800402046
-  lastteleport: 1604800120461
+  login: 1606512621347
+  logout: 1606514628652
+  lastteleport: 1606514416491
 ipAddress: 24.154.31.148
 lastlocation:
   world: world
-  x: 244.8937295430204
-  y: 82.0
-  z: 125.75724882156057
-  yaw: 231.75208
-  pitch: 43.350273
+  x: 21.69999998807907
+  y: 212.0
+  z: -951.5882337282685
+  yaw: -225.5214
+  pitch: 35.850025
 logoutlocation:
   world: world
-  x: -29.496079544780844
-  y: 91.0
-  z: -189.85012831025017
-  yaw: -339.9275
-  pitch: 25.799381
+  x: -67.17786295791282
+  y: 84.0
+  z: -139.82394263447378
+  yaw: 108.75045
+  pitch: 18.149982
+money: '500.0'
