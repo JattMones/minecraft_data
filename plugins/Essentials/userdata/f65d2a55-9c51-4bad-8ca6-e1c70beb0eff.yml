@@ -1,12 +1,22 @@
 lastAccountName: andybertz
 timestamps:
-  login: 1606617636097
-  lastteleport: 1606617835469
+  login: 1606629161347
+  lastteleport: 1606628900359
+  logout: 1606629179407
 ipAddress: 98.114.69.185
 lastlocation:
+  world: world_the_end
+  x: -14.135345920262232
+  y: 67.87602259913359
+  z: -13.830230618779382
+  yaw: 288.14938
+  pitch: 20.549871
+afk: false
+money: '500.0'
+logoutlocation:
   world: world
-  x: -77.02594763439193
-  y: 84.0
-  z: -132.4902327916224
-  yaw: 14.252136
-  pitch: 27.000044
+  x: -38.94613282810225
+  y: 67.0
+  z: -103.694212576982
+  yaw: 354.45123
+  pitch: 16.200172

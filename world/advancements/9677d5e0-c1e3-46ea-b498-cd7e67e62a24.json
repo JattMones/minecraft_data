@@ -125,9 +125,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2020-11-29 20:42:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2020-09-01 22:49:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2020-12-01 03:04:16 +0000"
     },
     "done": true
   },
@@ -215,6 +227,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2020-11-29 20:33:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_mushroom_stew": "2020-12-01 03:05:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2020-11-07 02:39:12 +0000"
@@ -226,6 +250,16 @@
       "has_log": "2020-11-08 22:04:18 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2020-12-01 02:43:37 +0000",
+      "apple": "2020-11-29 21:07:15 +0000",
+      "cookie": "2020-11-29 20:50:16 +0000",
+      "melon_slice": "2020-11-29 20:48:42 +0000",
+      "mushroom_stew": "2020-12-01 03:05:42 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
@@ -323,6 +357,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2020-11-29 20:58:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2020-09-01 22:49:29 +0000"
@@ -395,6 +435,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2020-11-29 20:47:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2020-11-07 01:43:18 +0000"
@@ -428,6 +474,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2020-09-01 22:51:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_mushroom_stew": "2020-12-01 03:05:39 +0000"
     },
     "done": true
   },
@@ -491,6 +543,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2020-11-29 20:51:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2020-11-07 02:39:12 +0000"
@@ -503,9 +561,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2020-11-29 20:42:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2020-09-01 22:48:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_sword": "2020-11-29 20:57:34 +0000"
     },
     "done": true
   },
@@ -911,6 +981,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_sword": "2020-11-29 20:57:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/warped_fence": {
     "criteria": {
       "has_planks": "2020-11-07 05:35:42 +0000"
@@ -959,6 +1035,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2020-11-29 21:07:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2020-09-01 22:49:29 +0000"
@@ -968,6 +1050,12 @@
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2020-11-08 21:56:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2020-11-29 20:51:25 +0000"
     },
     "done": true
   },
@@ -987,6 +1075,7 @@
       "minecraft:dark_forest": "2020-11-28 04:37:15 +0000",
       "minecraft:river": "2020-11-07 02:48:10 +0000",
       "minecraft:lukewarm_ocean": "2020-11-07 03:35:31 +0000",
+      "minecraft:birch_forest_hills": "2020-11-29 20:30:36 +0000",
       "minecraft:wooded_mountains": "2020-11-07 04:04:41 +0000",
       "minecraft:bamboo_jungle_hills": "2020-11-08 22:02:55 +0000",
       "minecraft:wooded_hills": "2020-11-07 23:37:07 +0000",
@@ -1035,6 +1124,12 @@
   "minecraft:recipes/decorations/light_blue_banner": {
     "criteria": {
       "has_light_blue_wool": "2020-11-07 05:36:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2020-11-29 20:49:33 +0000"
     },
     "done": true
   },
@@ -1146,6 +1241,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2020-11-29 20:51:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_leggings": "2020-11-09 01:11:41 +0000"
@@ -1179,6 +1280,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2020-09-01 22:49:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2020-11-29 20:42:21 +0000"
     },
     "done": true
   },

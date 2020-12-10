@@ -2,25 +2,36 @@
 # This file saves stats from arenas
 
 Total-Wins:
-  20e6092f-fcf2-43b2-889e-cea009a08f57: 6
+  20e6092f-fcf2-43b2-889e-cea009a08f57: 12
   5f75f4d0-a6c5-4b75-b0f4-57a596c99bfc: 1
+  7ee5f430-ab7e-48d4-bd4e-a70545f8510a: 2
   8702cce7-7d9c-4982-8ff1-3fd66b487d44: 3
   956e1ea7-1f9e-4459-892a-fe564685c2ac: 1
-  d8ad3fe0-e950-46fd-9505-1dc14f167c0d: 7
+  9677d5e0-c1e3-46ea-b498-cd7e67e62a24: 1
+  d8ad3fe0-e950-46fd-9505-1dc14f167c0d: 15
+  f65d2a55-9c51-4bad-8ca6-e1c70beb0eff: 1
 Total-Deaths:
-  20e6092f-fcf2-43b2-889e-cea009a08f57: 11
+  20e6092f-fcf2-43b2-889e-cea009a08f57: 19
   5f75f4d0-a6c5-4b75-b0f4-57a596c99bfc: 4
+  7ee5f430-ab7e-48d4-bd4e-a70545f8510a: 4
   8702cce7-7d9c-4982-8ff1-3fd66b487d44: 6
   956e1ea7-1f9e-4459-892a-fe564685c2ac: 6
-  d8ad3fe0-e950-46fd-9505-1dc14f167c0d: 10
+  9677d5e0-c1e3-46ea-b498-cd7e67e62a24: 9
+  d8ad3fe0-e950-46fd-9505-1dc14f167c0d: 18
+  f65d2a55-9c51-4bad-8ca6-e1c70beb0eff: 1
 Total-Kills:
-  20e6092f-fcf2-43b2-889e-cea009a08f57: 8
+  20e6092f-fcf2-43b2-889e-cea009a08f57: 16
   8702cce7-7d9c-4982-8ff1-3fd66b487d44: 4
   956e1ea7-1f9e-4459-892a-fe564685c2ac: 1
-  d8ad3fe0-e950-46fd-9505-1dc14f167c0d: 13
+  9677d5e0-c1e3-46ea-b498-cd7e67e62a24: 2
+  d8ad3fe0-e950-46fd-9505-1dc14f167c0d: 19
+  f65d2a55-9c51-4bad-8ca6-e1c70beb0eff: 1
 Games-Played:
-  20e6092f-fcf2-43b2-889e-cea009a08f57: 17
+  20e6092f-fcf2-43b2-889e-cea009a08f57: 31
   5f75f4d0-a6c5-4b75-b0f4-57a596c99bfc: 5
+  7ee5f430-ab7e-48d4-bd4e-a70545f8510a: 6
   8702cce7-7d9c-4982-8ff1-3fd66b487d44: 9
   956e1ea7-1f9e-4459-892a-fe564685c2ac: 7
-  d8ad3fe0-e950-46fd-9505-1dc14f167c0d: 17
+  9677d5e0-c1e3-46ea-b498-cd7e67e62a24: 10
+  d8ad3fe0-e950-46fd-9505-1dc14f167c0d: 33
+  f65d2a55-9c51-4bad-8ca6-e1c70beb0eff: 2

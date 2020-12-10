@@ -1,19 +1,21 @@
 lastAccountName: xClayton_Bigsbyx
 timestamps:
-  login: 1605994430753
-  logout: 1605996562713
+  login: 1607041873847
+  logout: 1607044541304
+  lastteleport: 1607043732780
 ipAddress: 98.239.173.61
 lastlocation:
   world: world
-  x: -73.19344080397151
+  x: -71.0
   y: 84.0
-  z: -147.1934408039715
-  yaw: 209.36987
-  pitch: 63.899746
+  z: -146.0
+  yaw: -353.9211
+  pitch: 0.0
 logoutlocation:
   world: world
-  x: -80.5
-  y: 85.0
-  z: -135.5
-  yaw: 48.450012
-  pitch: 14.250003
+  x: -88.12710348678763
+  y: 84.0
+  z: -128.22476804401643
+  yaw: -279.59988
+  pitch: 15.599999
+money: '1000.0'
